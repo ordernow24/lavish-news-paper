@@ -2,7 +2,6 @@ name: Lavish News - Midnight Publish
 
 on:
   schedule:
-    # 12:00 AM IST = 18:30 UTC (previous day)
     - cron: "30 18 * * *"
   workflow_dispatch: {}
 
@@ -21,11 +20,11 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Download Hindi font (Noto Sans Devanagari)
+      - name: Download Hindi font (Hind - full Devanagari + Latin support)
         run: |
           mkdir -p fonts
-          curl -L -o fonts/NotoSansDevanagari-Regular.ttf "https://raw.githubusercontent.com/openmaptiles/fonts/master/noto-sans/NotoSansDevanagari-Regular.ttf" || echo "Font download failed - English PDF will still be generated"
-          curl -L -o fonts/NotoSansDevanagari-Bold.ttf "https://raw.githubusercontent.com/openmaptiles/fonts/master/noto-sans/NotoSansDevanagari-Bold.ttf" || echo "Bold font download failed - will reuse regular weight"
+          curl -L -o fonts/NotoSansDevanagari-Regular.ttf "https://github.com/google/fonts/raw/main/ofl/hind/Hind-Regular.ttf"
+          curl -L -o fonts/NotoSansDevanagari-Bold.ttf "https://github.com/google/fonts/raw/main/ofl/hind/Hind-Bold.ttf"
 
       - name: Run midnight publish (PDF + Telegram)
         env:
