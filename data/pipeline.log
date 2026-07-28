@@ -3,3 +3,20 @@
 2026-07-28 22:07:50,471 [PDF] INFO: PDF built successfully: output/LAVISH_NEWS_ENGLISH_28-Jul-2026.pdf
 2026-07-28 22:07:50,471 [PDF] WARNING: Skipping Hindi PDF — font missing. English PDF still generated.
 2026-07-28 22:07:50,472 [PDF] INFO: ===== PDF generation finished: {'en': 'output/LAVISH_NEWS_ENGLISH_28-Jul-2026.pdf', 'hi': None} =====
+2026-07-28 23:43:46,422 [DETECTOR] INFO: ########## MIDNIGHT PUBLISH START ##########
+2026-07-28 23:43:46,422 [DETECTOR] INFO: ===== Detector recheck started =====
+2026-07-28 23:43:46,422 [DETECTOR] ERROR: Final recheck crashed: [Errno 2] No such file or directory: 'data/pending/national.json'
+2026-07-28 23:43:46,422 [DETECTOR] INFO: ===== PDF generation started =====
+2026-07-28 23:43:46,455 [DETECTOR] INFO: PDF built successfully: output/LAVISH_NEWS_ENGLISH_28-Jul-2026.pdf
+2026-07-28 23:43:46,473 [DETECTOR] INFO: PDF built successfully: output/LAVISH_NEWS_HINDI_28-Jul-2026.pdf
+2026-07-28 23:43:46,473 [DETECTOR] INFO: ===== PDF generation finished: {'en': 'output/LAVISH_NEWS_ENGLISH_28-Jul-2026.pdf', 'hi': 'output/LAVISH_NEWS_HINDI_28-Jul-2026.pdf'} =====
+2026-07-28 23:43:46,473 [DETECTOR] INFO: ===== Telegram send started =====
+2026-07-28 23:43:47,449 [DETECTOR] WARNING: Send failed (attempt 1): {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+2026-07-28 23:43:53,388 [DETECTOR] WARNING: Send failed (attempt 2): {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+2026-07-28 23:43:59,311 [DETECTOR] WARNING: Send failed (attempt 3): {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+2026-07-28 23:44:05,353 [DETECTOR] WARNING: Send failed (attempt 1): {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+2026-07-28 23:44:11,406 [DETECTOR] WARNING: Send failed (attempt 2): {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+2026-07-28 23:44:17,436 [DETECTOR] WARNING: Send failed (attempt 3): {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+2026-07-28 23:44:23,258 [DETECTOR] INFO: ===== Telegram send finished: {'en': False, 'hi': False} =====
+2026-07-28 23:44:23,258 [DETECTOR] INFO: Archived today's data to data/archive/2026-07-28 and reset pending/
+2026-07-28 23:44:23,258 [DETECTOR] INFO: ########## MIDNIGHT PUBLISH END ##########
