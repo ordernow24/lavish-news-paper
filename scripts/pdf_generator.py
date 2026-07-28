@@ -1,0 +1,266 @@
+"""
+LAVISH NEWS PAPER — PDF Generator
+Din bhar collect + summarize + recheck hui news ko leke
+16-page professional newspaper PDF banata hai — English aur Hindi, alag-alag.
+"""
+
+import json
+import os
+import logging
+from datetime import datetime
+from reportlab.lib.pagesizes import A4
+from reportlab.lib.units import mm
+from reportlab.lib import colors
+from reportlab.platypus import (
+    SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, HRFlowable, PageBreak
+)
+from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
+from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.ttfonts import TTFont
+import config
+
+logging.basicConfig(
+    filename=config.LOG_FILE, level=logging.INFO,
+    format="%(asctime)s [PDF] %(levelname)s: %(message)s"
+)
+logger = logging.getLogger(__name__)
+
+CATEGORY_LABELS = {
+    "en": {
+        "national": "NATIONAL", "politics": "POLITICS", "state": "STATE NEWS",
+        "business": "BUSINESS", "sports": "SPORTS", "entertainment": "ENTERTAINMENT",
+        "technology": "TECHNOLOGY", "editorial": "EDITORIAL & OPINION",
+    },
+    "hi": {
+        "national": "राष्ट्रीय", "politics": "राजनीति", "state": "राज्य समाचार",
+        "business": "व्यापार", "sports": "खेल", "entertainment": "मनोरंजन",
+        "technology": "तकनीक", "editorial": "संपादकीय",
+    },
+}
+
+
+def register_fonts():
+    """Register Devanagari font if available; fall back to Helvetica for English.
+    Font file expected at fonts/NotoSansDevanagari-Regular.ttf (download step in CI)."""
+    hindi_font_path = os.path.join(config.FONTS_DIR, "NotoSansDevanagari-Regular.ttf")
+    hindi_bold_path = os.path.join(config.FONTS_DIR, "NotoSansDevanagari-Bold.ttf")
+    if os.path.exists(hindi_font_path):
+        pdfmetrics.registerFont(TTFont("Hindi", hindi_font_path))
+        pdfmetrics.registerFont(TTFont("Hindi-Bold", hindi_bold_path if os.path.exists(hindi_bold_path) else hindi_font_path))
+        return True
+    logger.warning("Hindi font not found — Hindi PDF will fail gracefully / use fallback.")
+    return False
+
+
+def load_all_items():
+    all_items = {}
+    for category in config.RSS_SOURCES.keys():
+        path = os.path.join(config.DATA_PENDING_DIR, f"{category}.json")
+        if os.path.exists(path):
+            with open(path, "r", encoding="utf-8") as f:
+                items = json.load(f)
+            # sort: highest-weight sources first, then newest
+            items.sort(key=lambda x: (x.get("weight", 3), x.get("collected_at", "")))
+            all_items[category] = items
+        else:
+            all_items[category] = []
+    return all_items
+
+
+def get_styles(lang, hindi_available):
+    styles = getSampleStyleSheet()
+    base_font = "Hindi" if (lang == "hi" and hindi_available) else "Helvetica"
+    bold_font = "Hindi-Bold" if (lang == "hi" and hindi_available) else "Helvetica-Bold"
+
+    custom = {
+        "Masthead": ParagraphStyle("Masthead", fontName=bold_font, fontSize=30,
+                                    textColor=colors.HexColor(config.COLOR_NAVY), alignment=1, spaceAfter=2),
+        "Tagline": ParagraphStyle("Tagline", fontName=base_font, fontSize=10,
+                                   textColor=colors.HexColor(config.COLOR_GOLD), alignment=1, spaceAfter=4),
+        "DateLine": ParagraphStyle("DateLine", fontName=base_font, fontSize=9,
+                                    textColor=colors.black, alignment=1, spaceAfter=6),
+        "SectionHeader": ParagraphStyle("SectionHeader", fontName=bold_font, fontSize=15,
+                                         textColor=colors.white, backColor=colors.HexColor(config.COLOR_NAVY),
+                                         alignment=0, spaceAfter=8, leftIndent=6, borderPadding=6),
+        "Headline": ParagraphStyle("Headline", fontName=bold_font, fontSize=13,
+                                    textColor=colors.HexColor(config.COLOR_NAVY), spaceAfter=3, leading=16),
+        "TopHeadline": ParagraphStyle("TopHeadline", fontName=bold_font, fontSize=20,
+                                       textColor=colors.HexColor(config.COLOR_NAVY), spaceAfter=6, leading=24),
+        "Body": ParagraphStyle("Body", fontName=base_font, fontSize=9.5,
+                                textColor=colors.black, spaceAfter=10, leading=13),
+        "Source": ParagraphStyle("Source", fontName=base_font, fontSize=7.5,
+                                  textColor=colors.grey, spaceAfter=10),
+        "AdBox": ParagraphStyle("AdBox", fontName=bold_font, fontSize=12,
+                                 textColor=colors.HexColor(config.COLOR_NAVY), alignment=1, spaceAfter=6),
+        "AdSub": ParagraphStyle("AdSub", fontName=base_font, fontSize=9,
+                                 textColor=colors.black, alignment=1, spaceAfter=4),
+    }
+    return custom
+
+
+def ad_banner_flowable(styles, lang):
+    text_ad = {
+        "en": ["📢 YOUR AD COULD BE HERE", f"Contact: {config.CONTACT_PHONE}  |  {config.CONTACT_EMAIL}", config.AD_RATES_NOTE],
+        "hi": ["📢 यहां आपका विज्ञापन हो सकता है", f"संपर्क करें: {config.CONTACT_PHONE}  |  {config.CONTACT_EMAIL}", "दरों के लिए संपर्क करें"],
+    }[lang]
+    t = Table(
+        [[Paragraph(text_ad[0], styles["AdBox"])],
+         [Paragraph(text_ad[1], styles["AdSub"])],
+         [Paragraph(text_ad[2], styles["AdSub"])]],
+        colWidths=[160 * mm],
+    )
+    t.setStyle(TableStyle([
+        ("BOX", (0, 0), (-1, -1), 1.5, colors.HexColor(config.COLOR_GOLD)),
+        ("BACKGROUND", (0, 0), (-1, -1), colors.HexColor("#FFFBEF")),
+        ("TOPPADDING", (0, 0), (-1, -1), 10),
+        ("BOTTOMPADDING", (0, 0), (-1, -1), 10),
+    ]))
+    return t
+
+
+def masthead_flowable(styles, lang, edition_date):
+    name = config.BRAND_NAME_HI if lang == "hi" else config.BRAND_NAME_EN
+    tagline = config.TAGLINE_HI if lang == "hi" else config.TAGLINE_EN
+    dateline = f"Daily Digital Edition | {edition_date}" if lang == "en" else f"दैनिक डिजिटल संस्करण | {edition_date}"
+    elems = [
+        Paragraph(name, styles["Masthead"]),
+        Paragraph(tagline, styles["Tagline"]),
+        HRFlowable(width="100%", thickness=1.5, color=colors.HexColor(config.COLOR_GOLD)),
+        Paragraph(dateline, styles["DateLine"]),
+        HRFlowable(width="100%", thickness=0.5, color=colors.grey),
+        Spacer(1, 6),
+    ]
+    return elems
+
+
+def news_block(item, styles, lang, big=False):
+    title = item["title"]
+    summary = item["summary_hi"] if lang == "hi" and item.get("summary_hi") else item["summary_en"]
+    source = item["source"]
+    elems = [
+        Paragraph(title, styles["TopHeadline"] if big else styles["Headline"]),
+        Paragraph(summary, styles["Body"]),
+        Paragraph(("Source: " if lang == "en" else "स्रोत: ") + source, styles["Source"]),
+    ]
+    return elems
+
+
+def build_pdf(lang, all_items, edition_date, hindi_available):
+    styles = get_styles(lang, hindi_available)
+    filename = f"LAVISH_NEWS_{'HINDI' if lang=='hi' else 'ENGLISH'}_{edition_date}.pdf"
+    filepath = os.path.join(config.OUTPUT_DIR, filename)
+    os.makedirs(config.OUTPUT_DIR, exist_ok=True)
+
+    doc = SimpleDocTemplate(filepath, pagesize=A4,
+                             topMargin=15 * mm, bottomMargin=15 * mm,
+                             leftMargin=15 * mm, rightMargin=15 * mm)
+    story = []
+    used_ids = set()
+    filler_pool = list(config.FILLER_CONTENT[lang])
+    filler_idx = 0
+
+    def get_items(category, n):
+        nonlocal filler_idx
+        pool = [i for i in all_items.get(category, []) if i["id"] not in used_ids]
+        picked = pool[:n]
+        for p in picked:
+            used_ids.add(p["id"])
+        # if short, pad with filler so the page is never empty
+        while len(picked) < n and filler_idx < len(filler_pool):
+            picked.append({
+                "title": filler_pool[filler_idx]["title"] if lang == "en" else filler_pool[filler_idx]["title"],
+                "summary_en": filler_pool[filler_idx]["summary"], "summary_hi": filler_pool[filler_idx]["summary"],
+                "source": config.BRAND_NAME_EN if lang == "en" else config.BRAND_NAME_HI, "id": f"filler_{filler_idx}",
+            })
+            filler_idx += 1
+        return picked
+
+    for page_cfg in config.PAGE_LAYOUT:
+        ptype = page_cfg["type"]
+
+        if ptype == "front":
+            story += masthead_flowable(styles, lang, edition_date)
+            cat = page_cfg["categories"][0]
+            items = get_items(cat, 3)
+            if items:
+                story += news_block(items[0], styles, lang, big=True)
+                story.append(Spacer(1, 6))
+                for it in items[1:3]:
+                    story += news_block(it, styles, lang)
+
+        elif ptype in ("content", "content_ad"):
+            cat = page_cfg["categories"][0]
+            label = CATEGORY_LABELS[lang][cat]
+            story.append(Paragraph(f"  {label}", styles["SectionHeader"]))
+            story.append(Spacer(1, 4))
+            n = 4 if ptype == "content" else 2
+            for it in get_items(cat, n):
+                story += news_block(it, styles, lang)
+            if ptype == "content_ad":
+                story.append(Spacer(1, 8))
+                story.append(ad_banner_flowable(styles, lang))
+
+        elif ptype == "full_ad":
+            story.append(Spacer(1, 60))
+            story.append(ad_banner_flowable(styles, lang))
+            story.append(Spacer(1, 60))
+            note = "This full page is reserved for advertisement" if lang == "en" else "यह पूरा पृष्ठ विज्ञापन के लिए आरक्षित है"
+            story.append(Paragraph(note, styles["AdSub"]))
+
+        elif ptype == "editorial":
+            label = CATEGORY_LABELS[lang]["editorial"]
+            story.append(Paragraph(f"  {label}", styles["SectionHeader"]))
+            for it in get_items("editorial", 1):
+                story += news_block(it, styles, lang, big=True)
+
+        elif ptype == "back_ad":
+            title = "ADVERTISE WITH US" if lang == "en" else "हमारे साथ विज्ञापन दें"
+            story.append(Paragraph(title, styles["Masthead"]))
+            story.append(Spacer(1, 10))
+            story.append(ad_banner_flowable(styles, lang))
+            story.append(Spacer(1, 14))
+            contact_lines = [
+                f"📞 Phone / WhatsApp: {config.CONTACT_WHATSAPP}",
+                f"✉️ Email: {config.CONTACT_EMAIL}",
+                f"💼 {config.AD_RATES_NOTE}",
+            ] if lang == "en" else [
+                f"📞 फ़ोन / व्हाट्सएप: {config.CONTACT_WHATSAPP}",
+                f"✉️ ईमेल: {config.CONTACT_EMAIL}",
+                "💼 दरों के लिए संपर्क करें",
+            ]
+            for line in contact_lines:
+                story.append(Paragraph(line, styles["AdSub"]))
+
+        story.append(PageBreak())
+
+    try:
+        doc.build(story)
+        logger.info(f"PDF built successfully: {filepath}")
+        return filepath
+    except Exception as e:
+        logger.error(f"PDF build FAILED for {lang}: {e}")
+        return None
+
+
+def run():
+    logger.info("===== PDF generation started =====")
+    hindi_available = register_fonts()
+    all_items = load_all_items()
+    edition_date = datetime.now().strftime("%d-%b-%Y")
+
+    results = {}
+    results["en"] = build_pdf("en", all_items, edition_date, hindi_available)
+
+    if hindi_available:
+        results["hi"] = build_pdf("hi", all_items, edition_date, hindi_available)
+    else:
+        logger.warning("Skipping Hindi PDF — font missing. English PDF still generated.")
+        results["hi"] = None
+
+    logger.info(f"===== PDF generation finished: {results} =====")
+    print(f"PDF generation done: {results}")
+    return results
+
+
+if __name__ == "__main__":
+    run()

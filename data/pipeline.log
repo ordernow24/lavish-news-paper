@@ -1,0 +1,5 @@
+2026-07-28 22:07:50,429 [PDF] INFO: ===== PDF generation started =====
+2026-07-28 22:07:50,429 [PDF] WARNING: Hindi font not found — Hindi PDF will fail gracefully / use fallback.
+2026-07-28 22:07:50,471 [PDF] INFO: PDF built successfully: output/LAVISH_NEWS_ENGLISH_28-Jul-2026.pdf
+2026-07-28 22:07:50,471 [PDF] WARNING: Skipping Hindi PDF — font missing. English PDF still generated.
+2026-07-28 22:07:50,472 [PDF] INFO: ===== PDF generation finished: {'en': 'output/LAVISH_NEWS_ENGLISH_28-Jul-2026.pdf', 'hi': None} =====
