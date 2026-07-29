@@ -373,5 +373,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "4a57883f72a94550",
+    "title": "India may need $350-435 billion investment in AI, data centre infrastructure by 2030: Report",
+    "raw_summary": "India requires substantial investment for its digital economy's infrastructure.  AI adoption and cloud computing will drive significant data centre capacity needs.  This expansion necessitates considerable capital for both traditional and AI-focused facilities.  Supporting this growth will also demand vast amounts of electricity annually.  Addressing power and infrastructure challenges is crucial for future development.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-may-need-350-435-billion-investment-in-ai-data-centre-infrastructure-by-2030-report/articleshow/132707948.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Wed, 29 Jul 2026 15:06:07 +0530",
+    "collected_at": "2026-07-29T11:04:17.511927",
+    "summarized": true,
+    "summary_en": "India may need $350-435 billion investment in AI, data centre infrastructure by 2030: Report. India requires substantial investment for its digital economy's infrastructure. AI adoption and cloud computing will drive significant data centre capacity needs. This expansion necessitates considerable capital for both traditional and AI-focused...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "5012ec58a34efa24",
+    "title": "SoftBank-backed OfBusiness’ FY26 revenues fall 7%",
+    "raw_summary": "Revenue declined as OfBusiness exited low-return commerce categories and discontinued some operations, prioritising deeper manufacturing integration, wider margins and stronger cash generation ahead of its planned IPO filing next quarter.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/softbank-backed-ofbusiness-fy26-revenue-falls-7-profit-rises-21/articleshow/132706537.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Wed, 29 Jul 2026 13:58:44 +0530",
+    "collected_at": "2026-07-29T11:04:17.511942",
+    "summarized": true,
+    "summary_en": "SoftBank-backed OfBusiness’ FY26 revenues fall 7%. Revenue declined as OfBusiness exited low-return commerce categories and discontinued some operations, prioritising deeper manufacturing integration, wider margins and stronger cash generation ahead of its planned IPO filing next quarter.",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "1a5efffcfba33b00",
+    "title": "Elon Musk launches invite-only X Money with a Visa debit card, 6% yield and real-time transfers",
+    "raw_summary": "Elon Musk's X platform has launched X Money, a new financial service.  This service allows users to send money to each other in real-time.  X Money offers a competitive six percent yield on deposits and three percent cashback.  Customers must meet deposit and premium subscription requirements to earn these benefits.  The company aims to integrate financial services into its broader \"everything app\" vision.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/elon-musk-launches-invite-only-x-money-with-a-visa-debit-card-6-yield-and-real-time-transfers/articleshow/132705798.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Wed, 29 Jul 2026 13:24:42 +0530",
+    "collected_at": "2026-07-29T11:04:17.511951",
+    "summarized": true,
+    "summary_en": "Elon Musk launches invite-only X Money with a Visa debit card, 6% yield and real-time transfers. Elon Musk's X platform has launched X Money, a new financial service. This service allows users to send money to each other in real-time. X Money offers a competitive...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
