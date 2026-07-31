@@ -523,5 +523,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "7c440297bf5c91a5",
+    "title": "Chime to cut 10% of total workforce on AI driven efficiencies",
+    "raw_summary": "Fintech firm Chime is reducing its workforce by ten percent. This move aligns with a broader trend of companies using AI for operational efficiencies. Chime's CEO noted smaller teams are now moving faster and achieving more. Other financial companies like Block and Visa have also announced job cuts. These changes aim to build a stronger and more profitable business.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chime-to-cut-10-of-total-workforce-on-ai-driven-efficiencies/articleshow/132772791.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Fri, 31 Jul 2026 22:13:42 +0530",
+    "collected_at": "2026-07-31T18:05:49.655124",
+    "summarized": true,
+    "summary_en": "Chime to cut 10% of total workforce on AI driven efficiencies. Fintech firm Chime is reducing its workforce by ten percent. This move aligns with a broader trend of companies using AI for operational efficiencies. Chime's CEO noted smaller teams are now moving faster and...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "2b94dfed8b18fcbe",
+    "title": "Moonshot has Nvidia chip cluster from Alibaba computing deal: Bloomberg News reports",
+    "raw_summary": "Chinese AI firm Moonshot has secured computing power from Alibaba.  This deal involves approximately twenty thousand Nvidia chips for their models.  Moonshot recently unveiled its Kimi K3 model, a large open-weight AI system.  US export controls create computing power constraints for Chinese companies.  Moonshot is seeking additional chips to train its next AI model.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/moonshot-has-nvidia-chip-cluster-from-alibaba-computing-deal-bloomberg-news-reports/articleshow/132771053.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Fri, 31 Jul 2026 20:39:41 +0530",
+    "collected_at": "2026-07-31T18:05:49.655136",
+    "summarized": true,
+    "summary_en": "Moonshot has Nvidia chip cluster from Alibaba computing deal: Bloomberg News reports. Chinese AI firm Moonshot has secured computing power from Alibaba. This deal involves approximately twenty thousand Nvidia chips for their models. Moonshot recently unveiled its Kimi K3 model, a large open-weight AI system...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]

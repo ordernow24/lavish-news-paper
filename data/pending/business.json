@@ -553,5 +553,20 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "cadaedb559887d86",
+    "title": "NSE pays Rs 715 crore to settle pending Rs 1,491-crore co-location case ahead of IPO",
+    "raw_summary": "NSE has paid the remaining Rs 714.74 crore to Sebi, completing the Rs 1,491.21-crore settlement of the long-pending colocation and dark fibre cases. The payment follows Sebi's in-principle approval and clears a key hurdle as the exchange moves closer to its planned Rs 30,000-crore IPO.",
+    "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-pays-rs-715-crore-to-settle-pending-rs-1491-crore-co-location-case-ahead-of-ipo/articleshow/132772270.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Fri, 31 Jul 2026 21:48:25 +0530",
+    "collected_at": "2026-07-31T18:05:46.095893",
+    "summarized": true,
+    "summary_en": "NSE pays Rs 715 crore to settle pending Rs 1,491-crore co-location case ahead of IPO. NSE has paid the remaining Rs 714.74 crore to Sebi, completing the Rs 1,491.21-crore settlement of the long-pending colocation and dark fibre cases. The payment follows Sebi's in-principle approval and...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
