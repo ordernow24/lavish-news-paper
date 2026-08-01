@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "0d8562ede466141a",
+    "title": "Taiwan's economy grows by almost 13% on AI demand",
+    "raw_summary": "Taiwan's exports surged 21.6% year-on-year in the second quarter, which was \"mainly driven by the sustained strong external demand for artificial intelligence (AI) and related evolving applications\", the statement said. Imports over the same period grew by 18.3% from a year ago.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/taiwans-economy-grows-by-almost-13-on-ai-demand/articleshow/132782770.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 01 Aug 2026 11:36:28 +0530",
+    "collected_at": "2026-08-01T07:03:48.896577",
+    "summarized": true,
+    "summary_en": "Taiwan's economy grows by almost 13% on AI demand. Taiwan's exports surged 21.6% year-on-year in the second quarter, which was \"mainly driven by the sustained strong external demand for artificial intelligence (AI) and related evolving applications\", the statement said. Imports over the same period grew...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "1fc8014a67fabd39",
+    "title": "South Korea July exports beat forecasts on robust demand for AI investments",
+    "raw_summary": "Semiconductor exports jumped 179% as memory chip prices continued to ​rise despite the issues of Apple's potential use of ⁠Chinese memory ‌chips and a new AI development in China, the trade ​ministry said in ​a statement. Computer sales also surged 404% on increasing AI ⁠investments by big U.S. technology firms, the ministry said.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korea-july-exports-beat-forecasts-on-robust-demand-for-ai-investments/articleshow/132781317.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 01 Aug 2026 10:06:10 +0530",
+    "collected_at": "2026-08-01T07:03:48.896588",
+    "summarized": true,
+    "summary_en": "South Korea July exports beat forecasts on robust demand for AI investments. Semiconductor exports jumped 179% as memory chip prices continued to ​rise despite the issues of Apple's potential use of ⁠Chinese memory ‌chips and a new AI development in China, the trade ​ministry said...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
