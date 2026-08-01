@@ -268,5 +268,20 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "13887bffad3949f6",
+    "title": "WhatsApp may soon move business messages to separate 'Offers &amp; Updates' folder",
+    "raw_summary": "WhatsApp is testing a new feature to organise user inboxes.  Large business messages will move to an \"Offers &amp; Updates\" folder.  This aims to declutter main chat lists for a cleaner experience.  Users can disable this feature through the app's settings.  The rollout timeline for this new functionality remains unknown.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/whatsapp-may-soon-move-business-messages-to-separate-offers-updates-folder/articleshow/132791287.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 01 Aug 2026 19:56:03 +0530",
+    "collected_at": "2026-08-01T17:33:03.241069",
+    "summarized": true,
+    "summary_en": "WhatsApp may soon move business messages to separate 'Offers &amp; Updates' folder. WhatsApp is testing a new feature to organise user inboxes. Large business messages will move to an \"Offers &amp; Updates\" folder. This aims to declutter main chat lists for a cleaner experience. Users...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
