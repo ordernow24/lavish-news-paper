@@ -253,5 +253,20 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "a5fa6f0832ab1a93",
+    "title": "ETtech Explainer: Inside Zepto's IPO U-turn",
+    "raw_summary": "Zepto has paused its IPO and plans to refile its draft papers after two to three quarters. The decision follows months of valuation negotiations, investor pushback and shifting market conditions. Here's a look at the key events, from its confidential filing to the final decision, that led to the pause.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/ettech-explainer-inside-zeptos-ipo-u-turn/articleshow/132786500.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 01 Aug 2026 15:34:24 +0530",
+    "collected_at": "2026-08-01T10:17:38.636758",
+    "summarized": true,
+    "summary_en": "ETtech Explainer: Inside Zepto's IPO U-turn. Zepto has paused its IPO and plans to refile its draft papers after two to three quarters. The decision follows months of valuation negotiations, investor pushback and shifting market conditions. Here's a look at the key events, from its...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
