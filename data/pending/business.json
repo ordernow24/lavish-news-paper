@@ -583,5 +583,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "81b10278d96ceabd",
+    "title": "SpaceX draws retail investors despite fall in shares post earnings",
+    "raw_summary": "Retail investors bought SpaceX shares on Wednesday after a significant price drop.  Individual traders purchased over twenty-two million dollars worth of stock.  This buying activity followed the company's first earnings report since its public debut.  SpaceX shares experienced a notable decline, falling below one hundred ten dollars.  The company reported increased AI revenue and new cloud agreements.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-draws-retail-investors-despite-fall-in-shares-post-earnings/articleshow/132956840.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Wed, 05 Aug 2026 23:16:27 +0530",
+    "collected_at": "2026-08-05T18:06:51.387866",
+    "summarized": true,
+    "summary_en": "SpaceX draws retail investors despite fall in shares post earnings. Retail investors bought SpaceX shares on Wednesday after a significant price drop. Individual traders purchased over twenty-two million dollars worth of stock. This buying activity followed the company's first earnings report since its public debut...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "600618d987c3a55d",
+    "title": "PB Fintech Q1 Results: Policybazaar parent's profit soars 92% to Rs 163 crore as insurance premium grows 41%",
+    "raw_summary": "PB Fintech reported a 92% year-on-year rise in Q1FY27 consolidated profit to Rs 163 crore, driven by robust insurance premium growth, higher operating revenue and improving margins. Operating revenue rose 40%, while total insurance premium increased 41%, supported by strong protection and health insurance demand.",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/pb-fintech-q1-results-policybazaar-parents-profit-soars-92-to-rs-163-crore-as-insurance-premium-grows-41/articleshow/132942100.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Wed, 05 Aug 2026 20:31:15 +0530",
+    "collected_at": "2026-08-05T18:06:51.387877",
+    "summarized": true,
+    "summary_en": "PB Fintech Q1 Results: Policybazaar parent's profit soars 92% to Rs 163 crore as insurance premium grows 41%. PB Fintech reported a 92% year-on-year rise in Q1FY27 consolidated profit to Rs 163 crore, driven by robust insurance premium growth, higher operating revenue and improving margins...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]

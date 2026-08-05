@@ -598,5 +598,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "feddb57562de73a5",
+    "title": "Google's Jeff Dean launches AI startup Discovery Loop",
+    "raw_summary": "Announcing the venture on X, Dean wrote, \"We are founding Discovery Loop... a Public Benefit Corporation whose mission is to automate machine learning, science, and engineering to accelerate discoveries and progress.\" He added that the four founders have worked together for between 14 and 30 years, helping build Google's AI models, products and computing infrastructure.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/googles-jeff-dean-launches-ai-startup-discovery-loop/articleshow/132955389.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Wed, 05 Aug 2026 22:56:54 +0530",
+    "collected_at": "2026-08-05T18:06:54.846244",
+    "summarized": true,
+    "summary_en": "Google's Jeff Dean launches AI startup Discovery Loop. Announcing the venture on X, Dean wrote, \"We are founding Discovery Loop... a Public Benefit Corporation whose mission is to automate machine learning, science, and engineering to accelerate discoveries and progress.\" He added that the four founders...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "bf3ee1294c8c1cc4",
+    "title": "Google shakes up AI leadership as DeepMind CEO Demis Hassabis shifts role",
+    "raw_summary": "Google's AI division sees a significant leadership overhaul and key departures. Demis Hassabis moves to chief scientist while Koray Kavukcuoglu takes over daily operations. Several prominent AI engineers, including Jeff Dean, have left to form a new startup. This shakeup occurs as Google's Gemini model faces launch delays and competitive pressure. The company faces challenges in its artificial intelligence development race.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-shakes-up-ai-leadership-as-deepmind-chief-shifts-role/articleshow/132949041.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Wed, 05 Aug 2026 21:36:07 +0530",
+    "collected_at": "2026-08-05T18:06:54.846256",
+    "summarized": true,
+    "summary_en": "Google shakes up AI leadership as DeepMind CEO Demis Hassabis shifts role. Google's AI division sees a significant leadership overhaul and key departures. Demis Hassabis moves to chief scientist while Koray Kavukcuoglu takes over daily operations. Several prominent AI engineers, including Jeff Dean, have left...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "b4ce2797b191bbdd",
+    "title": "Govt aims to keep India's internet free from unlawful, obscene content: I&amp;B Ministry to Lok Sabha",
+    "raw_summary": "The government is dedicated to fostering a secure and accessible internet environment for all users. Their policies focus on safeguarding the Indian digital landscape from offensive content. Through the IT Act and IT Rules, a robust framework has been established to combat harmful online material. Recent amendments also tackle the risks associated with synthetically generated content like deepfakes.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/govt-aims-to-keep-indias-internet-free-from-unlawful-obscene-content-ib-ministry-to-lok-sabha/articleshow/132945247.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Wed, 05 Aug 2026 21:01:06 +0530",
+    "collected_at": "2026-08-05T18:06:54.846265",
+    "summarized": true,
+    "summary_en": "Govt aims to keep India's internet free from unlawful, obscene content: I&amp;B Ministry to Lok Sabha. The government is dedicated to fostering a secure and accessible internet environment for all users. Their policies focus on safeguarding the Indian digital landscape from offensive content. Through the...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
