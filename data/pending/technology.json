@@ -208,5 +208,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "a4291458e3329853",
+    "title": "Microsoft launches fourth India cloud region in Hyderabad",
+    "raw_summary": "The new 'India South Central' cloud region makes Microsoft the provider with the largest hyperscale cloud presence in the country, adding to its existing regions in Pune (central India), Chennai (south India), and Mumbai (west India).",
+    "link": "https://economictimes.indiatimes.com/tech/technology/microsoft-launches-fourth-india-cloud-region-in-hyderabad/articleshow/133021123.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Fri, 07 Aug 2026 09:56:26 +0530",
+    "collected_at": "2026-08-07T05:56:31.766436",
+    "summarized": true,
+    "summary_en": "Microsoft launches fourth India cloud region in Hyderabad. The new 'India South Central' cloud region makes Microsoft the provider with the largest hyperscale cloud presence in the country, adding to its existing regions in Pune (central India), Chennai (south India), and Mumbai (west India).",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "efa64581f9d57439",
+    "title": "AMD deepens AI inference bet with Taalas deal as chip race heats up",
+    "raw_summary": "Toronto-based Taalas develops specialized silicon designed to reduce computing and memory bottlenecks in AI ‌inference, the ⁠process ⁠of running trained AI models to generate responses or predictions.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/amd-deepens-ai-inference-bet-with-taalas-deal-as-chip-race-heats-up/articleshow/133020434.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Fri, 07 Aug 2026 09:13:58 +0530",
+    "collected_at": "2026-08-07T05:56:31.766446",
+    "summarized": true,
+    "summary_en": "AMD deepens AI inference bet with Taalas deal as chip race heats up. Toronto-based Taalas develops specialized silicon designed to reduce computing and memory bottlenecks in AI ‌inference, the ⁠process ⁠of running trained AI models to generate responses or predictions.",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "542f830af035c0c6",
+    "title": "MDR on UPI will impact businesses, not users: FM Nirmala Sitharaman hits back at Congress' Jairam Ramesh",
+    "raw_summary": "Sitharaman accused the opposition leader of \"spreading a canard\" and clarified that MDR \"applies only on the merchants and not on the end users/customers,\" adding that the revenue would let banks and fintechs invest in infrastructure, innovation and security, benefits she said would eventually flow to all UPI users.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/mdr-on-upi-will-hit-businesses-not-users-fm-nirmala-sitharaman-hits-back-at-congress-jairam-ramesh/articleshow/133015017.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Fri, 07 Aug 2026 00:39:55 +0530",
+    "collected_at": "2026-08-07T05:56:31.766490",
+    "summarized": true,
+    "summary_en": "MDR on UPI will impact businesses, not users: FM Nirmala Sitharaman hits back at Congress' Jairam Ramesh. Sitharaman accused the opposition leader of \"spreading a canard\" and clarified that MDR \"applies only on the merchants and not on the end users/customers,\" adding that the revenue...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
