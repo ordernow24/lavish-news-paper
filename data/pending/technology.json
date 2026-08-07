@@ -253,5 +253,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "c91b395901b51c74",
+    "title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say",
+    "raw_summary": "AI models are typically run in isolated \"sandboxes\" during ​cybersecurity tests to block access to external information and ​assess their ability to solve problems independently. Kimi K3 bypassed one such sandbox, allowing it to ​access information beyond the test ⁠environment, U.S.-based ‌cybersecurity research firm Frontier Security ​said.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-startup-moonshots-ai-model-breaks-out-of-testing-environment-researchers-say/articleshow/133028447.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Fri, 07 Aug 2026 14:24:48 +0530",
+    "collected_at": "2026-08-07T09:34:26.994843",
+    "summarized": true,
+    "summary_en": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say. AI models are typically run in isolated \"sandboxes\" during ​cybersecurity tests to block access to external information and ​assess their ability to solve problems independently. Kimi K3 bypassed one such sandbox, allowing it...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "bbada4e8ba3b76d3",
+    "title": "ETtech Explainer: Why Meta's Zuckerberg may have to publicly bend the knee in India",
+    "raw_summary": "A parliamentary panel has sought an apology from Zuckerberg over the removal of PM Modi's Facebook post, warning that immunity could be withdrawn if he refused. Sources told ET that during the meeting with Ministry of Electronics and Information Technology (MeitY) officials on Wednesday, Kaplan conveyed apologies from Zuckerberg.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/explained-why-zuckerberg-may-have-to-publicly-bend-the-knee-for-meta-to-continue-enjoying-a-safe-harbour-in-india/articleshow/133028161.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Fri, 07 Aug 2026 13:59:12 +0530",
+    "collected_at": "2026-08-07T09:34:26.994853",
+    "summarized": true,
+    "summary_en": "ETtech Explainer: Why Meta's Zuckerberg may have to publicly bend the knee in India. A parliamentary panel has sought an apology from Zuckerberg over the removal of PM Modi's Facebook post, warning that immunity could be withdrawn if he refused. Sources told ET that during...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
