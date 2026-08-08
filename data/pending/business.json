@@ -523,5 +523,20 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "c2d20f2925b6dd7c",
+    "title": "Explained: How BSE traded fewer contracts after CAS but premiums rose 75% in first week",
+    "raw_summary": "BSE’s derivatives activity fell sharply in the first week of the Closing Auction Session, but higher premiums more than offset the decline in contracts. Premium per contract surged 74.8%, lifting average daily premium turnover 21.3% and pushing BSE’s market share to 37.1%, according to Nuvama Institutional Equities.",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-how-bse-traded-fewer-contracts-after-cas-but-premiums-rose-75-in-first-week/articleshow/133049697.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Sat, 08 Aug 2026 14:44:12 +0530",
+    "collected_at": "2026-08-08T13:28:06.841785",
+    "summarized": true,
+    "summary_en": "Explained: How BSE traded fewer contracts after CAS but premiums rose 75% in first week. BSE’s derivatives activity fell sharply in the first week of the Closing Auction Session, but higher premiums more than offset the decline in contracts. Premium per contract surged 74.8%, lifting...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
