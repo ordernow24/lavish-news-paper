@@ -283,5 +283,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "a3d19c4d1128f4cd",
+    "title": "Government examines if Meta recommendation system deciding 'what-to-show-to-whom' fits intermediary status",
+    "raw_summary": "If a platform determines what content gets shown to users, it amounts to publishing, and platforms would then have to take responsibility for their actions. The issue assumes significance as intermediaries enjoy certain legal protections under the Act, subject to compliance with prescribed conditions.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/govt-examines-if-meta-recommendation-system-deciding-what-to-show-to-whom-fits-intermediary-status/articleshow/133048786.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 08 Aug 2026 13:23:51 +0530",
+    "collected_at": "2026-08-08T09:12:00.395299",
+    "summarized": true,
+    "summary_en": "Government examines if Meta recommendation system deciding 'what-to-show-to-whom' fits intermediary status. If a platform determines what content gets shown to users, it amounts to publishing, and platforms would then have to take responsibility for their actions. The issue assumes significance as intermediaries enjoy certain legal...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "a7b5a8d9d5528155",
+    "title": "Nvidia to invest up to $3 billion in Stargate data centre developer Lancium: The Information",
+    "raw_summary": "Nvidia will get ​a 20% ⁠stake in ‌Lancium ​for ​the first $2 ⁠billion investment, and its stake ​could grow to ​an additional $1 billion if Lancium  hits certain thresholds, the ‌Information said, citing people familiar ​with the ​matter.",
+    "link": "https://economictimes.indiatimes.com/tech/funding/nvidia-to-invest-up-to-3-billion-in-lancium-the-information-reports/articleshow/133045158.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 08 Aug 2026 07:41:07 +0530",
+    "collected_at": "2026-08-08T09:12:00.395323",
+    "summarized": true,
+    "summary_en": "Nvidia to invest up to $3 billion in Stargate data centre developer Lancium: The Information. Nvidia will get ​a 20% ⁠stake in ‌Lancium ​for ​the first $2 ⁠billion investment, and its stake ​could grow to ​an additional $1 billion if Lancium hits certain thresholds, the...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "c985b20c38bcb9dd",
+    "title": "Instant home services firms Urban Company, Snabbit slash prices, cut waiting times as competition intensifies",
+    "raw_summary": "The sector's rising cash burn, coupled with the relatively limited size of the addressable market, is beginning to concern investors tracking the space. The category is economically viable primarily in urban catchments, where high order density supports efficient fulfilment and worker utilisation. Expanding into lower-density neighbourhoods is significantly more challenging, another industry executive said.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/instant-home-services-firms-urban-company-snabbit-slash-prices-cut-waiting-times-as-competition-intensifies/articleshow/133048369.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 08 Aug 2026 01:17:25 +0530",
+    "collected_at": "2026-08-08T09:12:00.395335",
+    "summarized": true,
+    "summary_en": "Instant home services firms Urban Company, Snabbit slash prices, cut waiting times as competition intensifies. The sector's rising cash burn, coupled with the relatively limited size of the addressable market, is beginning to concern investors tracking the space. The category is economically viable primarily in...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
