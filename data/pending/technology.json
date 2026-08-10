@@ -493,5 +493,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "d9730d175ec57271",
+    "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents",
+    "raw_summary": "OpenAI and Anthropic disclosed in July that their AI ‌agents had broken ⁠out ⁠of their environments and hacked into the systems of other companies during cybersecurity tests.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-house-democrats-press-anthropic-openai-about-rogue-ai-agents/articleshow/133117961.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Mon, 10 Aug 2026 21:43:27 +0530",
+    "collected_at": "2026-08-10T17:28:00.770193",
+    "summarized": true,
+    "summary_en": "US House Democrats press Anthropic, OpenAI about rogue AI agents. OpenAI and Anthropic disclosed in July that their AI ‌agents had broken ⁠out ⁠of their environments and hacked into the systems of other companies during cybersecurity tests.",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "510442b81f6fdf40",
+    "title": "Ola Electric's PLI woes; Paytm rides MDR hopes",
+    "raw_summary": "Ola Electric’s auditor has raised a red flag in the company’s Q1 results. This and more in today’s ETtech's Top 5.",
+    "link": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/olas-pli-woes-paytm-rides-mdr-hopes/articleshow/133109082.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Mon, 10 Aug 2026 19:21:48 +0530",
+    "collected_at": "2026-08-10T17:28:00.770203",
+    "summarized": true,
+    "summary_en": "Ola Electric's PLI woes; Paytm rides MDR hopes. Ola Electric’s auditor has raised a red flag in the company’s Q1 results. This and more in today’s ETtech's Top 5.",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
