@@ -313,5 +313,20 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "83d638c259fb78f9",
+    "title": "GalaxEye acquires StarOps, looks to strengthen satellite engineering after Drishti setback",
+    "raw_summary": "Infosys-backed GalaxEye has successfully acquired StarOps, enhancing its satellite development capabilities. With roots in TeamIndus, India's pioneering spacetech startup, StarOps will aid GalaxEye in reinforcing its satellite engineering expertise, especially after the recent loss of contact with their first satellite.",
+    "link": "https://economictimes.indiatimes.com/tech/startups/spacetech-startup-galaxeye-acquires-starops-looks-to-strengthen-satellite-engineering-after-drishti-setback/articleshow/133085834.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Mon, 10 Aug 2026 11:09:24 +0530",
+    "collected_at": "2026-08-10T09:59:08.934213",
+    "summarized": true,
+    "summary_en": "GalaxEye acquires StarOps, looks to strengthen satellite engineering after Drishti setback. Infosys-backed GalaxEye has successfully acquired StarOps, enhancing its satellite development capabilities. With roots in TeamIndus, India's pioneering spacetech startup, StarOps will aid GalaxEye in reinforcing its satellite engineering expertise, especially after the recent loss...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
