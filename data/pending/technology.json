@@ -313,5 +313,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "12236048bb654dc9",
+    "title": "Logistics platform Porter logs 54% revenue growth for FY26; profit rises four-fold to Rs 229 crore",
+    "raw_summary": "Porter’s operating revenue rose 54% to Rs 6,649 crore in FY26, marking its fifth consecutive year of over 50% growth. Net profit nearly quadrupled to Rs 229 crore, while Ebitda more than tripled to Rs 159 crore. The company, which is backed by investors such as Kedaara Capital and Wellington Management, saw its largest expense, fleet operator costs, climb 58% to Rs 5,849 crore in FY26.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/logistics-platform-porter-logs-54-revenue-growth-for-fy26-profit-rises-four-fold-to-rs-229-crore/articleshow/133174991.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Wed, 12 Aug 2026 13:08:33 +0530",
+    "collected_at": "2026-08-12T09:42:05.993308",
+    "summarized": true,
+    "summary_en": "Logistics platform Porter logs 54% revenue growth for FY26; profit rises four-fold to Rs 229 crore. Porter’s operating revenue rose 54% to Rs 6,649 crore in FY26, marking its fifth consecutive year of over 50% growth. Net profit nearly quadrupled to Rs 229 crore, while...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "8f72029e3c395a5a",
+    "title": "Foxconn posts quarterly profit surge on AI server demand",
+    "raw_summary": "The company said net profit for April-June reached NT$59.97 billion ($1.86 billion), up 35% from the previous year. Foxconn, whose official name is Hon Hai Precision Industry, has gone beyond assembling low-margin iPhones to making AI servers for US tech giant Nvidia, along with electric vehicles and robots.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/foxconn-posts-quarterly-profit-surge-on-ai-server-demand/articleshow/133174561.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Wed, 12 Aug 2026 12:45:31 +0530",
+    "collected_at": "2026-08-12T09:42:05.993318",
+    "summarized": true,
+    "summary_en": "Foxconn posts quarterly profit surge on AI server demand. The company said net profit for April-June reached NT$59.97 billion ($1.86 billion), up 35% from the previous year. Foxconn, whose official name is Hon Hai Precision Industry, has gone beyond assembling low-margin iPhones to making AI...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
