@@ -313,5 +313,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "0f2bdab60f668dca",
+    "title": "Startup Cognition in new funding talks at $40 billion value",
+    "raw_summary": "Cognition would be expected to raise over $1 billion in the round, Bloomberg reported. The company may still decide not to raise capital, or seek financing with different terms. Founded in 2023, Cognition is backed by top venture firms including General Catalyst and Peter Thiel’s Founders Fund.",
+    "link": "https://economictimes.indiatimes.com/tech/funding/startup-cognition-in-new-funding-talks-at-40-billion-value/articleshow/133202849.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Thu, 13 Aug 2026 12:36:26 +0530",
+    "collected_at": "2026-08-13T09:42:24.272249",
+    "summarized": true,
+    "summary_en": "Startup Cognition in new funding talks at $40 billion value. Cognition would be expected to raise over $1 billion in the round, Bloomberg reported. The company may still decide not to raise capital, or seek financing with different terms. Founded in 2023, Cognition is backed...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "464e9b82c478bfb4",
+    "title": "Can Sarvam Be India's Full-Stack AI Company? Pratyush Kumar &amp; Rajan Anandan",
+    "raw_summary": "",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/can-sarvam-be-indias-full-stack-ai-company-pratyush-kumar-rajan-anandan/videoshow/133200778.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Thu, 13 Aug 2026 11:54:25 +0530",
+    "collected_at": "2026-08-13T09:42:24.272260",
+    "summarized": true,
+    "summary_en": "Can Sarvam Be India's Full-Stack AI Company? Pratyush Kumar &amp; Rajan Anandan. Can Sarvam Be India's Full-Stack AI Company? Pratyush Kumar &amp; Rajan Anandan",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
