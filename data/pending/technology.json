@@ -313,5 +313,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "f30202d0e4f37eb4",
+    "title": "OpenAI’s annualised revenue tops $40 billion ahead of IPO",
+    "raw_summary": "OpenAI is poised to surpass $40 billion in annual revenue, propelling its ambitions for a public offering in the near future, accroding to a report by Bloomberg. The ChatGPT maker’s revenue has accelerated in recent months, driven in part by the growth of its AI coding software, said the report.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-annualised-revenue-tops-40-billion-ahead-of-ipo/articleshow/133233207.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Fri, 14 Aug 2026 13:50:08 +0530",
+    "collected_at": "2026-08-14T09:37:05.668502",
+    "summarized": true,
+    "summary_en": "OpenAI’s annualised revenue tops $40 billion ahead of IPO. OpenAI is poised to surpass $40 billion in annual revenue, propelling its ambitions for a public offering in the near future, accroding to a report by Bloomberg. The ChatGPT maker’s revenue has accelerated in recent months...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "a596fd96ead08edc",
+    "title": "Social media firms urge caution on early Australia under-16 ban data",
+    "raw_summary": "Local heads of YouTube owner Google, Facebook and Instagram owner Meta, Snapchat and TikTok fronted a Senate inquiry as lawmakers pressed them on multiple studies, including from ‌Australia's internet regulator, ⁠showing some ⁠80% of minors were still on social media months after the ban took effect in December.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/social-media-firms-urge-caution-on-early-australia-under-16-ban-data/articleshow/133231422.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Fri, 14 Aug 2026 12:27:44 +0530",
+    "collected_at": "2026-08-14T09:37:05.668514",
+    "summarized": true,
+    "summary_en": "Social media firms urge caution on early Australia under-16 ban data. Local heads of YouTube owner Google, Facebook and Instagram owner Meta, Snapchat and TikTok fronted a Senate inquiry as lawmakers pressed them on multiple studies, including from ‌Australia's internet regulator, ⁠showing some ⁠80% of...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "e4003760a59d2a15",
+    "title": "Zetwerk’s promoters have pledged nearly a third of their combined stake, IPO prospectus shows",
+    "raw_summary": "Founders Srinath Ramakkrushnan and Amrit Acharya have pledged 1.85% of the company's equity directly.",
+    "link": "https://economictimes.indiatimes.com/tech/startups/zetwerks-promoters-have-pledged-nearly-a-third-of-their-combined-stake-ipo-prospectus-shows/articleshow/133230743.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Fri, 14 Aug 2026 11:52:21 +0530",
+    "collected_at": "2026-08-14T09:37:05.668527",
+    "summarized": true,
+    "summary_en": "Zetwerk’s promoters have pledged nearly a third of their combined stake, IPO prospectus shows. Founders Srinath Ramakkrushnan and Amrit Acharya have pledged 1.85% of the company's equity directly.",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
