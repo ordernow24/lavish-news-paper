@@ -313,5 +313,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "c2a665b3126ab45a",
+    "title": "Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast",
+    "raw_summary": "Anthropic is projecting 2028 revenue of roughly $190 billion to $200 billion, according to two people familiar ​with the company's financials, a figure that has not previously been reported. The projection dwarfs the $47 billion revenue \"run rate,\" reflecting the firm's current pace of business, that the company publicized as recently as May, and shows the scale of growth investors are being asked to underwrite.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ipo-valuation-hinges-on-190-200-billion-2028-revenue-forecast/articleshow/133259667.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 15 Aug 2026 14:51:56 +0530",
+    "collected_at": "2026-08-15T13:09:26.992554",
+    "summarized": true,
+    "summary_en": "Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast. Anthropic is projecting 2028 revenue of roughly $190 billion to $200 billion, according to two people familiar ​with the company's financials, a figure that has not previously been reported. The projection dwarfs the $47 billion...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "466f86355f03fac6",
+    "title": "Maharashtra food safety chief targets Domino's, Eternal, Swiggy, Zepto in sweeping crackdown",
+    "raw_summary": "Maharashtra's food safety chief has taken decisive action by suspending warehouse permits for leading grocery companies after inspectors uncovered alarming sanitation issues, including cockroach infestations. This effort specifically addresses challenges within the burgeoning quick commerce sector known for swift grocery deliveries. Notably, several Domino's stores were also shut down for failing to meet hygiene requirements, marking a significant push for improved food safety regulations throughout the state.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/crusading-india-state-food-safety-chief-targets-eternal-swiggy-zepto-in-sweeping-crackdown/articleshow/133259223.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 15 Aug 2026 14:22:23 +0530",
+    "collected_at": "2026-08-15T13:09:26.992565",
+    "summarized": true,
+    "summary_en": "Maharashtra food safety chief targets Domino's, Eternal, Swiggy, Zepto in sweeping crackdown. Maharashtra's food safety chief has taken decisive action by suspending warehouse permits for leading grocery companies after inspectors uncovered alarming sanitation issues, including cockroach infestations. This effort specifically addresses challenges within the burgeoning...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
