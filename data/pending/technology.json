@@ -223,5 +223,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "a0ea36369e8d614e",
+    "title": "Five to eight more semiconductor plants to come up in eight years: PM Modi",
+    "raw_summary": "Addressing the nation from the ramparts of the historic Red Fort on the 80th Independence Day, the prime minister said India's semiconductor journey reflects its growing technological self-reliance. Recognising the strategic importance of chips, the prime minister said India has taken decisive steps towards self-reliance in semiconductors.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/five-to-eight-more-semiconductor-plants-to-come-up-in-eight-years-pm-modi/articleshow/133255200.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 15 Aug 2026 09:13:49 +0530",
+    "collected_at": "2026-08-15T04:58:42.715527",
+    "summarized": true,
+    "summary_en": "Five to eight more semiconductor plants to come up in eight years: PM Modi. Addressing the nation from the ramparts of the historic Red Fort on the 80th Independence Day, the prime minister said India's semiconductor journey reflects its growing technological self-reliance. Recognising the strategic...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "eaca96243a4db32f",
+    "title": "Nvidia scales back funding guarantee for Ohio OpenAI data centre: WSJ",
+    "raw_summary": "According to the report Nvidia and OpenAI are nearing an ​agreement, with the chipmaker expected to provide a financial backstop only ​for the first phase of the project. A deal could be signed as early as this weekend, the report said. The change ⁠were made ‌after investors raised concerns about Nvidia's ​risk exposure ​tied to large financing commitments.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-scales-back-funding-guarantee-for-ohio-openai-data-centre-wsj/articleshow/133253982.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 15 Aug 2026 07:30:33 +0530",
+    "collected_at": "2026-08-15T04:58:42.715538",
+    "summarized": true,
+    "summary_en": "Nvidia scales back funding guarantee for Ohio OpenAI data centre: WSJ. According to the report Nvidia and OpenAI are nearing an ​agreement, with the chipmaker expected to provide a financial backstop only ​for the first phase of the project. A deal could be signed as...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "85faf0fccf57a03c",
+    "title": "Amazon reinstates binding arbitration, bars class-action lawsuits",
+    "raw_summary": "In emails on Friday, Amazon said the changes are effective immediately and customers ‌agree to the ⁠terms ⁠by continuing to use the company's services. Often, companies alert customers to upcoming changes to ​their terms of service weeks in advance.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/amazon-reinstates-binding-arbitration-bars-class-action-lawsuits/articleshow/133253950.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 15 Aug 2026 07:25:38 +0530",
+    "collected_at": "2026-08-15T04:58:42.715547",
+    "summarized": true,
+    "summary_en": "Amazon reinstates binding arbitration, bars class-action lawsuits. In emails on Friday, Amazon said the changes are effective immediately and customers ‌agree to the ⁠terms ⁠by continuing to use the company's services. Often, companies alert customers to upcoming changes to ​their terms of service weeks in...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
