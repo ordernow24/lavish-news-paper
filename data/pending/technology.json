@@ -268,5 +268,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "a3e6ee2cd216125d",
+    "title": "Josh Kushner’s Thrive Fund grows sevenfold to $3.7 billion on AI bets",
+    "raw_summary": "The letter highlights an investing strategy that Thrive pioneered in the venture capital industry: concentrating on a small subset of companies, rather than indexing an entire market. While many VC firms spread bets across dozens of companies, Thrive’s strategy is much more focused.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/kushners-thrive-fund-grows-sevenfold-to-3-7-billion-on-ai-bets/articleshow/133257697.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 15 Aug 2026 12:17:34 +0530",
+    "collected_at": "2026-08-15T08:56:50.466642",
+    "summarized": true,
+    "summary_en": "Josh Kushner’s Thrive Fund grows sevenfold to $3.7 billion on AI bets. The letter highlights an investing strategy that Thrive pioneered in the venture capital industry: concentrating on a small subset of companies, rather than indexing an entire market. While many VC firms spread bets...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "19544a7771ec3ed9",
+    "title": "CM Shivakumar announces AI education programme for schools in Karnataka",
+    "raw_summary": "He said his government has already formulated programmes to transform the skills of today's youth and enable them to compete globally, adding that AI education would be introduced in schools across Karnataka from Class 6. Shivakumar said the government was also working on establishing India's first government-owned AI university in Bengaluru.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cm-shivakumar-announces-ai-education-programme-for-schools-in-ktaka/articleshow/133256595.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 15 Aug 2026 11:40:57 +0530",
+    "collected_at": "2026-08-15T08:56:50.466653",
+    "summarized": true,
+    "summary_en": "CM Shivakumar announces AI education programme for schools in Karnataka. He said his government has already formulated programmes to transform the skills of today's youth and enable them to compete globally, adding that AI education would be introduced in schools across Karnataka from Class 6...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "7138a9249de2a3f8",
+    "title": "We will train 1 crore youth in AI skills over next year: PM Modi",
+    "raw_summary": "Prime Minister Narendra Modi, referring to India's recent AI Summit, announced a major initiative aimed at expanding AI skills among the country's youth. He also said that India has witnessed a significant rise in entrepreneurship, with more than 2.5 lakh startups operating across the country and young entrepreneurs contributing to employment generation.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/we-will-work-to-provide-ai-skill-training-to-1-crore-youth-in-coming-one-year-pm-modi/articleshow/133256036.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 15 Aug 2026 10:38:02 +0530",
+    "collected_at": "2026-08-15T08:56:50.466661",
+    "summarized": true,
+    "summary_en": "We will train 1 crore youth in AI skills over next year: PM Modi. Prime Minister Narendra Modi, referring to India's recent AI Summit, announced a major initiative aimed at expanding AI skills among the country's youth. He also said that India has witnessed a...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
