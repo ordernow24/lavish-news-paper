@@ -313,5 +313,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "763d30f8ce38573f",
+    "title": "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users' order information",
+    "raw_summary": "An authorization flaw in the order tracking ‌system allowed access ⁠to ⁠another customer's order information between March 2, 2025, and April 11, ​2026, SafePal said in a statement.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/crypto-wallet-provider-safepal-discloses-data-breach-affecting-nearly-40000-users-order-information/articleshow/133278729.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sun, 16 Aug 2026 22:08:03 +0530",
+    "collected_at": "2026-08-16T16:53:03.067356",
+    "summarized": true,
+    "summary_en": "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users' order information. An authorization flaw in the order tracking ‌system allowed access ⁠to ⁠another customer's order information between March 2, 2025, and April 11, ​2026, SafePal said in a statement.",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "aadddefc8c534923",
+    "title": "Ecommerce order volumes up 31% during Independence Day sales",
+    "raw_summary": "The insights, derived from order items processed on the company's Uniware platform between August 6 and 14, also revealed a 30 per cent jump in total sales value, or gross merchandise value (GMV), compared to the same period in 2025.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/ecommerce-order-volumes-up-31-during-independence-day-sales/articleshow/133277675.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sun, 16 Aug 2026 20:37:36 +0530",
+    "collected_at": "2026-08-16T16:53:03.067366",
+    "summarized": true,
+    "summary_en": "Ecommerce order volumes up 31% during Independence Day sales. The insights, derived from order items processed on the company's Uniware platform between August 6 and 14, also revealed a 30 per cent jump in total sales value, or gross merchandise value (GMV), compared to the...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "2ce1355acd2b9da3",
+    "title": "Anthropic CEO Dario Amodei defends AI regulation, argues it can boost competition",
+    "raw_summary": "It started with a comment from investor Gavin Baker on the All-In Podcast, which set off a public argument about Anthropic's ambitions, pulling in one of the  top researchers in this field,  Advanced Machine Intelligence chair Yann LeCunn, and a public essay from Amodei himself.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/anthropic-ceo-dario-amodei-defends-ai-regulation-argues-it-can-boost-competition/articleshow/133276232.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sun, 16 Aug 2026 18:48:20 +0530",
+    "collected_at": "2026-08-16T16:53:03.067377",
+    "summarized": true,
+    "summary_en": "Anthropic CEO Dario Amodei defends AI regulation, argues it can boost competition. It started with a comment from investor Gavin Baker on the All-In Podcast, which set off a public argument about Anthropic's ambitions, pulling in one of the top researchers in this field, Advanced...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
