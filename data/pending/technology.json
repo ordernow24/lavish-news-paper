@@ -283,5 +283,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "90c423e7044dc935",
+    "title": "Alibaba to sell Lingxi Games in more than $2 billion deal, source says",
+    "raw_summary": "Alibaba and Trustar have reached a formal agreement after several rounds of talks, according to an internal memo sent to Lingxi staff on Monday by the game developer's CEO Zhou Bingshu and reviewed by Reuters.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/alibaba-to-sell-lingxi-games-in-more-than-2-billion-deal-source-says/articleshow/133290205.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Mon, 17 Aug 2026 12:57:43 +0530",
+    "collected_at": "2026-08-17T09:11:11.820761",
+    "summarized": true,
+    "summary_en": "Alibaba to sell Lingxi Games in more than $2 billion deal, source says. Alibaba and Trustar have reached a formal agreement after several rounds of talks, according to an internal memo sent to Lingxi staff on Monday by the game developer's CEO Zhou Bingshu and...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "766db2a910c092ce",
+    "title": "Shein eyes company valuation of around $25 billion in Hong Kong IPO",
+    "raw_summary": "Singapore-headquartered Shein, known for ​selling $5 dresses and $10 jeans to shoppers in about 160 countries, is ​aiming to launch its much-awaited ⁠initial public ‌offering later this ​week, Reuters ​has reported.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/shein-eyes-company-valuation-of-around-25-billion-in-hong-kong-ipo/articleshow/133289764.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Mon, 17 Aug 2026 12:34:20 +0530",
+    "collected_at": "2026-08-17T09:11:11.820770",
+    "summarized": true,
+    "summary_en": "Shein eyes company valuation of around $25 billion in Hong Kong IPO. Singapore-headquartered Shein, known for ​selling $5 dresses and $10 jeans to shoppers in about 160 countries, is ​aiming to launch its much-awaited ⁠initial public ‌offering later this ​week, Reuters ​has reported.",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "eadff5f2b2762815",
+    "title": "Binance gave Moscow client details used to charge Russian over Ukraine donations, documents show",
+    "raw_summary": "While it is normal for companies like Binance to comply when law enforcement agencies ​in countries where they operate make legitimate requests to see client information, the world's largest crypto exchange said ​in 2023 it had fully exited Russia.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/binance-gave-moscow-client-details-used-to-charge-russian-over-ukraine-donations-documents-show/articleshow/133288648.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Mon, 17 Aug 2026 11:46:51 +0530",
+    "collected_at": "2026-08-17T09:11:11.820777",
+    "summarized": true,
+    "summary_en": "Binance gave Moscow client details used to charge Russian over Ukraine donations, documents show. While it is normal for companies like Binance to comply when law enforcement agencies ​in countries where they operate make legitimate requests to see client information, the world's largest crypto exchange...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
