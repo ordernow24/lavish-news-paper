@@ -343,5 +343,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "9bdedd422bd2a4f2",
+    "title": "GitHub down: Users report issues with website, app and login",
+    "raw_summary": "Microsoft-owned GitHub faced a significant outage on Monday evening.  Users reported widespread issues with its website and application services.  The outage comes just a few months after GitHub confirmed a cyberattack involving unauthorised access to some of its internal repositories, following claims by a threat actor that it had stolen and was attempting to sell company data online.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/github-down-users-report-issues-with-website-app-and-login/articleshow/133301748.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Mon, 17 Aug 2026 22:01:18 +0530",
+    "collected_at": "2026-08-17T16:56:57.291674",
+    "summarized": true,
+    "summary_en": "GitHub down: Users report issues with website, app and login. Microsoft-owned GitHub faced a significant outage on Monday evening. Users reported widespread issues with its website and application services. The outage comes just a few months after GitHub confirmed a cyberattack involving unauthorised access to...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "6efc243ec018cf44",
+    "title": "Unveiling the high-powered ETSA 2026 jury; Zepto's profitability push",
+    "raw_summary": "The Economic Times Startup Awards (ETSA) is back for a 12th edition. Today, we announce the high-powered jury and nominations for two categories, Bootstrap Champ and Top Innovator.",
+    "link": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/unveiling-the-high-powered-etsa-2026-jury-zeptos-profitability-push/articleshow/133297833.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Mon, 17 Aug 2026 18:54:01 +0530",
+    "collected_at": "2026-08-17T16:56:57.291685",
+    "summarized": true,
+    "summary_en": "Unveiling the high-powered ETSA 2026 jury; Zepto's profitability push. The Economic Times Startup Awards (ETSA) is back for a 12th edition. Today, we announce the high-powered jury and nominations for two categories, Bootstrap Champ and Top Innovator.",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
