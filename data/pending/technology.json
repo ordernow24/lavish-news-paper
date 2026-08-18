@@ -538,5 +538,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "448b261489f1e5f4",
+    "title": "They'll have to comply with Indian law: Govt official on X's takedown visibility push",
+    "raw_summary": "X's new transparency push seeks to make government-directed content restrictions more visible to users, and bring more clarity on takedown requests. It intends to disclose which government was behind such a request, and why the content was flagged.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/theyll-have-to-comply-with-indian-law-govt-official-on-xs-takedown-visibility-push/articleshow/133326602.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Tue, 18 Aug 2026 21:13:09 +0530",
+    "collected_at": "2026-08-18T16:58:46.963891",
+    "summarized": true,
+    "summary_en": "They'll have to comply with Indian law: Govt official on X's takedown visibility push. X's new transparency push seeks to make government-directed content restrictions more visible to users, and bring more clarity on takedown requests. It intends to disclose which government was behind such a...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "a3c16c898f259789",
+    "title": "Meta more cautious on CSAM after unequivocal govt message; action visible: IT Ministry sources",
+    "raw_summary": "Sources said the government's intent is not censorship or restricting coverage in any way, but ensuring Indian laws and norms are followed and that social media harms are mitigated. Meta explained how its algorithms and systems work, the ministry sources said, noting that discussions are on and such matters involve \"judgment calls\" and \"tweaks\".",
+    "link": "https://economictimes.indiatimes.com/tech/technology/meta-more-cautious-on-csam-after-unequivocal-govt-message-action-visible-it-ministry-sources/articleshow/133323873.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Tue, 18 Aug 2026 18:53:45 +0530",
+    "collected_at": "2026-08-18T16:58:46.963902",
+    "summarized": true,
+    "summary_en": "Meta more cautious on CSAM after unequivocal govt message; action visible: IT Ministry sources. Sources said the government's intent is not censorship or restricting coverage in any way, but ensuring Indian laws and norms are followed and that social media harms are mitigated. Meta explained...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
