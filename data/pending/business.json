@@ -433,5 +433,20 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "df03b85845d8f7cb",
+    "title": "Dollar feeble as rate hike bets dwindle, Iran war worries grow",
+    "raw_summary": "The U.S. dollar weakened against major currencies as traders scaled back tightening expectations. Soft economic data, including retail sales and job losses, influenced these shifts. Traders now see a lower chance of a Federal Reserve rate hike in September. Elevated oil prices and geopolitical tensions in the Middle East are causing market fragility. Bond yields globally are rising due to concerns over debt and fiscal discipline.",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-feeble-as-rate-hike-bets-dwindle-iran-war-worries-grow/articleshow/133309496.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Tue, 18 Aug 2026 07:38:00 +0530",
+    "collected_at": "2026-08-18T05:03:37.506138",
+    "summarized": true,
+    "summary_en": "Dollar feeble as rate hike bets dwindle, Iran war worries grow. The U.S. dollar weakened against major currencies as traders scaled back tightening expectations. Soft economic data, including retail sales and job losses, influenced these shifts. Traders now see a lower chance of a Federal...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
