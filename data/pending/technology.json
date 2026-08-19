@@ -583,5 +583,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "ba2e0f4117517a66",
+    "title": "Amazon set to expand drone delivery of lightweight packages to 500 US cities",
+    "raw_summary": "Amazon's plan would expand its drone delivery operation more than sixfold nationwide into hundreds of new communities, including the Chicago, Atlanta, Cleveland and Boise metro areas. The drones will primarily fly in the suburbs well away from skyscrapers and major airports that could cause problems.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/amazon-set-to-expand-drone-delivery-of-lightweight-packages-to-500-us-cities/articleshow/133352365.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Wed, 19 Aug 2026 21:01:31 +0530",
+    "collected_at": "2026-08-19T16:57:22.626787",
+    "summarized": true,
+    "summary_en": "Amazon set to expand drone delivery of lightweight packages to 500 US cities. Amazon's plan would expand its drone delivery operation more than sixfold nationwide into hundreds of new communities, including the Chicago, Atlanta, Cleveland and Boise metro areas. The drones will primarily fly in...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "18f203dfff937319",
+    "title": "Irish lawmakers summon TikTok over videos glorifying dangerous driving",
+    "raw_summary": "Five male teenagers died in a crash on Sunday while driving on ​the wrong side of a motorway, seriously injuring three women and a child in another ​car who were travelling to Dublin Airport, police said. Footage purporting to be taken from the car, and from other cars engaged in dangerous activity, has been ​shared widely on social media.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/irish-lawmakers-summon-tiktok-over-videos-glorifying-dangerous-driving/articleshow/133352309.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Wed, 19 Aug 2026 20:57:17 +0530",
+    "collected_at": "2026-08-19T16:57:22.626798",
+    "summarized": true,
+    "summary_en": "Irish lawmakers summon TikTok over videos glorifying dangerous driving. Five male teenagers died in a crash on Sunday while driving on ​the wrong side of a motorway, seriously injuring three women and a child in another ​car who were travelling to Dublin Airport, police said...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "6c3a76150fad8a53",
+    "title": "Shiprocket’s stellar D-Street debut; KKR buys BookMyShow stake",
+    "raw_summary": "Shiprocket shares zoomed ​in a bumper public market debut on Wednesday. This and more in today’s ETtech Top 5.",
+    "link": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/shiprockets-stellar-d-street-debut-kkr-buys-bookmyshow-stake/articleshow/133350199.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Wed, 19 Aug 2026 19:19:08 +0530",
+    "collected_at": "2026-08-19T16:57:22.626812",
+    "summarized": true,
+    "summary_en": "Shiprocket’s stellar D-Street debut; KKR buys BookMyShow stake. Shiprocket shares zoomed ​in a bumper public market debut on Wednesday. This and more in today’s ETtech Top 5.",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]

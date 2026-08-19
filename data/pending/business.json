@@ -613,5 +613,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "1169f6d00d1deb9a",
+    "title": "US stocks: US market regains ground as bond yields ease; healthcare stocks rally",
+    "raw_summary": "Major stock indexes recovered on Wednesday after a prior day's decline. Moderna shares surged significantly following positive cancer therapy trial results. Government bond yields eased from highs, boosting investor risk appetite. Retailers like Target and Lowe's reported quarterly results, influencing consumer spending views. Geopolitical developments and Federal Reserve minutes remained key investor focuses.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-up-after-tech-led-slump-as-yields-ease-earnings-watched/articleshow/133350322.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Wed, 19 Aug 2026 19:14:25 +0530",
+    "collected_at": "2026-08-19T16:57:18.248554",
+    "summarized": true,
+    "summary_en": "US stocks: US market regains ground as bond yields ease; healthcare stocks rally. Major stock indexes recovered on Wednesday after a prior day's decline. Moderna shares surged significantly following positive cancer therapy trial results. Government bond yields eased from highs, boosting investor risk appetite. Retailers...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "789e3914840cb388",
+    "title": "Moderna shares soar 135% in a day after cancer vaccine succeeds in late-stage trial",
+    "raw_summary": "Moderna shares surged after its personalized mRNA cancer vaccine trial showed positive results. The treatment, combined with Keytruda, reduced melanoma recurrence and spread significantly. This marks the first successful late-stage trial for an mRNA cancer vaccine. The findings offer hope for future growth beyond COVID-19 vaccines. Discussions with regulators are expected within the next few months.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/moderna-shares-soar-135-in-a-day-after-cancer-vaccine-succeeds-in-late-stage-trial/articleshow/133351080.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Wed, 19 Aug 2026 19:56:33 +0530",
+    "collected_at": "2026-08-19T16:57:18.248566",
+    "summarized": true,
+    "summary_en": "Moderna shares soar 135% in a day after cancer vaccine succeeds in late-stage trial. Moderna shares surged after its personalized mRNA cancer vaccine trial showed positive results. The treatment, combined with Keytruda, reduced melanoma recurrence and spread significantly. This marks the first successful late-stage trial...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
