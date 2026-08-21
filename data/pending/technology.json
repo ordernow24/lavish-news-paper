@@ -448,5 +448,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "dee6dd8061e3fbd4",
+    "title": "US corporate AI debt surge tests investor limits as fatigue emerges",
+    "raw_summary": "While fund managers remain comfortable with the credit ​quality of companies such as Amazon and Alphabet, Google's parent company, they are increasingly demanding higher yields to accommodate the flood of ​issuance. This has raised concerns that a tipping point could emerge if AI spending continues to escalate.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/us-corporate-ai-debt-surge-tests-investor-limits-as-fatigue-emerges/articleshow/133400902.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Fri, 21 Aug 2026 15:39:05 +0530",
+    "collected_at": "2026-08-21T13:27:08.935009",
+    "summarized": true,
+    "summary_en": "US corporate AI debt surge tests investor limits as fatigue emerges. While fund managers remain comfortable with the credit ​quality of companies such as Amazon and Alphabet, Google's parent company, they are increasingly demanding higher yields to accommodate the flood of ​issuance. This has raised...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "c431c235c86f4e9a",
+    "title": "One of a Kind Awards: Celebrating the GTM strategies driving early growth",
+    "raw_summary": "At the One of a Kind Awards - for early stage startups, presented by The Economic Times and Cashfree Payments, the GTM Excellence Award recognised an early-stage, internet-first startup that built a clear path from product innovation to customer adoption, distribution and sustained growth.",
+    "link": "https://economictimes.indiatimes.com/tech/startups/one-of-a-kind-awards-celebrating-the-gtm-strategies-driving-early-growth/articleshow/133397250.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Fri, 21 Aug 2026 13:19:50 +0530",
+    "collected_at": "2026-08-21T13:27:08.935031",
+    "summarized": true,
+    "summary_en": "One of a Kind Awards: Celebrating the GTM strategies driving early growth. At the One of a Kind Awards - for early stage startups, presented by The Economic Times and Cashfree Payments, the GTM Excellence Award recognised an early-stage, internet-first startup that built a clear...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "05779ef96c650719",
+    "title": "One of a Kind Awards: Honouring AI that solves problems beyond the hype",
+    "raw_summary": "At the One of a Kind Awards - for early stage startups, presented by The Economic Times and Cashfree Payments, the AI Innovator Award recognised an early-stage, internet-first startup using AI to solve a real-world problem or create fundamentally new product capabilities.",
+    "link": "https://economictimes.indiatimes.com/tech/startups/one-of-a-kind-awards-honouring-ai-that-solves-problems-beyond-the-hype/articleshow/133396885.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Fri, 21 Aug 2026 13:07:36 +0530",
+    "collected_at": "2026-08-21T13:27:08.935039",
+    "summarized": true,
+    "summary_en": "One of a Kind Awards: Honouring AI that solves problems beyond the hype. At the One of a Kind Awards - for early stage startups, presented by The Economic Times and Cashfree Payments, the AI Innovator Award recognised an early-stage, internet-first startup using AI to...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
