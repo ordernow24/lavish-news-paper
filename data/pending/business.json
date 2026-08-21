@@ -538,5 +538,20 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "586f6019cd672776",
+    "title": "US stocks: US market rebounds, but yield surge sets stage for weekly losses",
+    "raw_summary": "Major Wall Street indexes opened higher on Friday after significant declines.  The Dow Jones Industrial Average saw a slight increase at the opening.  The S&amp;P 500 also experienced a rise in its opening figures.  The Nasdaq Composite index registered a notable gain at the opening bell.  Markets are still set to finish the week with losses.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-but-weekly-losses-loom/articleshow/133406374.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Fri, 21 Aug 2026 19:19:33 +0530",
+    "collected_at": "2026-08-21T17:02:36.996082",
+    "summarized": true,
+    "summary_en": "US stocks: US market rebounds, but yield surge sets stage for weekly losses. Major Wall Street indexes opened higher on Friday after significant declines. The Dow Jones Industrial Average saw a slight increase at the opening. The S&amp;P 500 also experienced a rise in its...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
