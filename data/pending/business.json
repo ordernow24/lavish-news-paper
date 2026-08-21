@@ -433,5 +433,20 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "dae46b8eb8e39211",
+    "title": "Oil Price Today (August 21): Crude oil nears $95 as Iran peace deal hopes fade. What are experts saying?",
+    "raw_summary": "An earlier peace deal between the sides expired this week, with neither side making efforts to resume talks. U.S. President Donald Trump also threatened economic retaliation against countries supporting Iran.",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-21-crude-oil-nears-95-as-iran-peace-deal-hopes-fade-what-are-experts-saying/articleshow/133391008.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Fri, 21 Aug 2026 07:55:52 +0530",
+    "collected_at": "2026-08-21T05:06:12.534262",
+    "summarized": true,
+    "summary_en": "Oil Price Today (August 21): Crude oil nears $95 as Iran peace deal hopes fade. What are experts saying?. An earlier peace deal between the sides expired this week, with neither side making efforts to resume talks. U.S. President Donald Trump also threatened economic retaliation...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
