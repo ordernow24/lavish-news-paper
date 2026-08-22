@@ -673,5 +673,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "df604d14a0d47c53",
+    "title": "Starc nets six as Bangladesh roll over for 64",
+    "raw_summary": "Bangladesh were knocked over in just 34 overs with Mitchell Starc returning 6 for 12",
+    "link": "https://www.cricinfo.com/ci/content/story/1550957.html?ex_cid=OTC-RSS",
+    "source": "ESPN Cricinfo",
+    "weight": 2,
+    "published": "Sat, 22 Aug 2026 03:57:51 GMT",
+    "collected_at": "2026-08-22T05:00:38.989224",
+    "summarized": true,
+    "summary_en": "Starc nets six as Bangladesh roll over for 64. Bangladesh were knocked over in just 34 overs with Mitchell Starc returning 6 for 12",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "aa45ae1e24a0725e",
+    "title": "How Starc completed his five-wicket haul in 22 balls",
+    "raw_summary": "The left-arm quick dismantled Bangladesh's top order on the opening day in Mackay",
+    "link": "https://www.cricinfo.com/ci/content/story/1550959.html?ex_cid=OTC-RSS",
+    "source": "ESPN Cricinfo",
+    "weight": 2,
+    "published": "Sat, 22 Aug 2026 02:49:08 GMT",
+    "collected_at": "2026-08-22T05:00:38.989235",
+    "summarized": true,
+    "summary_en": "How Starc completed his five-wicket haul in 22 balls. The left-arm quick dismantled Bangladesh's top order on the opening day in Mackay",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "97bd800de57c0513",
+    "title": "AUS vs BAN Day 1: Starc takes 5-11 to leave Bangladesh reeling",
+    "raw_summary": "Australia made a stunning start when Starc removed Shadman Islam with the first ball of the day, tempting a leading edge that Cameron Green did well to hold in the gully.",
+    "link": "https://www.thehindu.com/sport/cricket/australia-vs-bangladesh-test-match-2-day-1-mitchell-starc-shanto-updates/article71376427.ece",
+    "source": "The Hindu - Sport",
+    "weight": 2,
+    "published": "Sat, 22 Aug 2026 08:52:20 +0530",
+    "collected_at": "2026-08-22T05:00:39.314086",
+    "summarized": true,
+    "summary_en": "AUS vs BAN Day 1: Starc takes 5-11 to leave Bangladesh reeling. Australia made a stunning start when Starc removed Shadman Islam with the first ball of the day, tempting a leading edge that Cameron Green did well to hold in the gully.",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
