@@ -328,5 +328,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "1e066cf26855187b",
+    "title": "Nvidia invests in data center developer Cloverleaf Infrastructure",
+    "raw_summary": "The investment ⁠will ⁠help Cloverleaf develop sites for the ​data centers, while Nvidia will support infrastructure buildouts for ​AI computing.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-invests-in-data-center-developer-cloverleaf-infrastructure/articleshow/133419940.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 22 Aug 2026 13:12:50 +0530",
+    "collected_at": "2026-08-22T08:58:26.489249",
+    "summarized": true,
+    "summary_en": "Nvidia invests in data center developer Cloverleaf Infrastructure. The investment ⁠will ⁠help Cloverleaf develop sites for the ​data centers, while Nvidia will support infrastructure buildouts for ​AI computing.",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "04043b8ec0d2869e",
+    "title": "Only 9% of India's finance aspirants feel ready to compete in AI-driven job market: Study",
+    "raw_summary": "The study found that the gap in AI readiness was the widest difference between the two groups. About 56% of Indian respondents said AI and automation were making it slightly or much harder to get their desired job. This was close to the 59% of global graduates who saw AI as a barrier of some kind.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/only-9-of-indias-finance-aspirants-feel-ready-to-compete-in-ai-driven-job-market-study/articleshow/133419250.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 22 Aug 2026 12:22:00 +0530",
+    "collected_at": "2026-08-22T08:58:26.489262",
+    "summarized": true,
+    "summary_en": "Only 9% of India's finance aspirants feel ready to compete in AI-driven job market: Study. The study found that the gap in AI readiness was the widest difference between the two groups. About 56% of Indian respondents said AI and automation were making it slightly...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
