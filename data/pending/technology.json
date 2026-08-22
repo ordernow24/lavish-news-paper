@@ -358,5 +358,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "359389e1b78a619d",
+    "title": "AI volumes may outweigh revenue deflation for IT sector by FY30: Report",
+    "raw_summary": "CLSA said the industry is facing \"multiple macro/micro headwinds\", but expects AI to eventually create new growth opportunities. It said AI could initially compress revenues as productivity gains are passed on to clients, but \"AI volumes could supersede deflation by FY30.\"",
+    "link": "https://economictimes.indiatimes.com/tech/information-tech/ai-volumes-may-outweigh-revenue-deflation-for-it-sector-by-fy30-report/articleshow/133423374.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 22 Aug 2026 17:11:47 +0530",
+    "collected_at": "2026-08-22T13:10:24.548496",
+    "summarized": true,
+    "summary_en": "AI volumes may outweigh revenue deflation for IT sector by FY30: Report. CLSA said the industry is facing \"multiple macro/micro headwinds\", but expects AI to eventually create new growth opportunities. It said AI could initially compress revenues as productivity gains are passed on to clients...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "a1e2591d8774b1a6",
+    "title": "VCs becoming marginal in AI cycle, enterprises should invest in the sector: Peak XV’s Shailendra Singh",
+    "raw_summary": "“Every large enterprise should be investing in AI,” Singh said at The Economic Times World Leaders Forum in New Delhi. Pointing to HCLTech’s investment in Indian foundational model startup Sarvam AI, and global bets such as Amazon’s backing of Anthropic, he said corporate balance sheets can deploy capital at a scale most venture funds cannot match.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/vcs-becoming-marginal-in-ai-cycle-enterprises-should-invest-in-the-sector-peak-xvs-shailendra-singh/articleshow/133423304.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 22 Aug 2026 17:09:28 +0530",
+    "collected_at": "2026-08-22T13:10:24.548512",
+    "summarized": true,
+    "summary_en": "VCs becoming marginal in AI cycle, enterprises should invest in the sector: Peak XV’s Shailendra Singh. “Every large enterprise should be investing in AI,” Singh said at The Economic Times World Leaders Forum in New Delhi. Pointing to HCLTech’s investment in Indian foundational model startup...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
