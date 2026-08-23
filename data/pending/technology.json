@@ -283,5 +283,20 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "28f49c9c3c038c22",
+    "title": "Anthropic market debut could break SpaceX IPO record",
+    "raw_summary": "The company's bankers have told potential investors it could seek to raise \"more than $100 billion\" in its IPO, which could put the company's value at $2 trillion, The New York Times reported Friday, citing two unnamed sources with knowledge of the talks.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-market-debut-could-break-spacex-ipo-record/articleshow/133442327.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sun, 23 Aug 2026 21:39:52 +0530",
+    "collected_at": "2026-08-23T16:53:29.471139",
+    "summarized": true,
+    "summary_en": "Anthropic market debut could break SpaceX IPO record. The company's bankers have told potential investors it could seek to raise \"more than $100 billion\" in its IPO, which could put the company's value at $2 trillion, The New York Times reported Friday, citing two unnamed...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
