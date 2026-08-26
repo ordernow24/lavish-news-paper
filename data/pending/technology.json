@@ -553,5 +553,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "fd5c360e95cd6130",
+    "title": "Alibaba's Qwen launches Qwen3.8-Flash AI model with lower training costs",
+    "raw_summary": "Qwen3.8-Flash supports ⁠a default ‌context window of 262,144 tokens, ​expandable to ​1 million tokens, enabling it ⁠to handle large files, lengthy conversations and extensive ​research materials. It also released ​open-source weights ​for Qwen3.8-Flash-Next, allowing ⁠the developer community to evaluate an architecture that Qwen said would serve as a prototype for its ​next-generation Qwen4 model family.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibabas-qwen-launches-qwen3-8-flash-ai-model-with-lower-training-costs/articleshow/133544818.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Wed, 26 Aug 2026 20:32:52 +0530",
+    "collected_at": "2026-08-26T18:18:31.261631",
+    "summarized": true,
+    "summary_en": "Alibaba's Qwen launches Qwen3.8-Flash AI model with lower training costs. Qwen3.8-Flash supports ⁠a default ‌context window of 262,144 tokens, ​expandable to ​1 million tokens, enabling it ⁠to handle large files, lengthy conversations and extensive ​research materials. It also released ​open-source weights ​for Qwen3.8-Flash-Next, allowing ⁠the...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "099e001fb85744e2",
+    "title": "Zerodha’s  growth stalls; IT’s new deal model",
+    "raw_summary": "Zerodha’s profit growth has slowed as its core broking business comes under pressure. This and more in today's ETtech Top 5.",
+    "link": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/zerodhas-profit-stalls-its-new-deal-model/articleshow/133542508.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Wed, 26 Aug 2026 19:32:51 +0530",
+    "collected_at": "2026-08-26T18:18:31.261641",
+    "summarized": true,
+    "summary_en": "Zerodha’s  growth stalls; IT’s new deal model. Zerodha’s profit growth has slowed as its core broking business comes under pressure. This and more in today's ETtech Top 5.",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "087a79837faf98e0",
+    "title": "Meta reaches $16.68 billion settlement over social media harms to children",
+    "raw_summary": "The deal was reached during a California ​federal court trial over claims brought by 29 states, averting one of the highest-profile tests yet of allegations that social media companies harmed young users. Just days before jury selection began on August 12, a federal appeals court declined to halt the trial.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/meta-settles-with-us-states-over-social-media-harms/articleshow/133542742.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Wed, 26 Aug 2026 19:01:52 +0530",
+    "collected_at": "2026-08-26T18:18:31.261647",
+    "summarized": true,
+    "summary_en": "Meta reaches $16.68 billion settlement over social media harms to children. The deal was reached during a California ​federal court trial over claims brought by 29 states, averting one of the highest-profile tests yet of allegations that social media companies harmed young users. Just days...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]

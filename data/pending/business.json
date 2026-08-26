@@ -643,5 +643,20 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "5e4dd15cdd70901f",
+    "title": "Anthropic gears up for Wall Street debut: Five things investors need to know",
+    "raw_summary": "Anthropic is preparing for a potential major Wall Street debut, fueled by rapid growth in AI coding through Claude Code. However, massive cash requirements, heavy losses, political tensions and fierce competition could test investor confidence in its long-term business model.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropics-gears-up-for-wall-street-debut-five-things-investors-need-to-know/slideshow/133545308.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Wed, 26 Aug 2026 21:00:49 +0530",
+    "collected_at": "2026-08-26T18:18:28.011033",
+    "summarized": true,
+    "summary_en": "Anthropic gears up for Wall Street debut: Five things investors need to know. Anthropic is preparing for a potential major Wall Street debut, fueled by rapid growth in AI coding through Claude Code. However, massive cash requirements, heavy losses, political tensions and fierce competition could...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
