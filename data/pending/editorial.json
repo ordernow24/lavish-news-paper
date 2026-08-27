@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "077c28cbddd87df2",
+    "title": "Danger from above: On the Nepal flood",
+    "raw_summary": "Natural outbursts in hilly terrain are rising amid climate change",
+    "link": "https://www.thehindu.com/opinion/editorial/danger-from-above-on-the-nepal-flood/article71396710.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Fri, 28 Aug 2026 01:27:30 +0530",
+    "collected_at": "2026-08-27T22:30:40.313289",
+    "summarized": true,
+    "summary_en": "Danger from above: On the Nepal flood. Natural outbursts in hilly terrain are rising amid climate change",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "a737942f3008761f",
+    "title": "New-age fires: On India’s ICU fire accidents",
+    "raw_summary": "Fire accidents in ICUs need better and more evacuation facilities",
+    "link": "https://www.thehindu.com/opinion/editorial/new-age-fires-on-indias-icu-fire-accidents/article71396744.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Fri, 28 Aug 2026 01:19:15 +0530",
+    "collected_at": "2026-08-27T22:30:40.313301",
+    "summarized": true,
+    "summary_en": "New-age fires: On India’s ICU fire accidents. Fire accidents in ICUs need better and more evacuation facilities",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
