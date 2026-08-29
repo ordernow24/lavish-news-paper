@@ -223,5 +223,20 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "042a4da7857e4fe5",
+    "title": "TCS employees get 50-70% variable in Q1",
+    "raw_summary": "The payout comes after a prolonged period of subdued variable compensation at the company. For nearly two years until the first quarter of fiscal 2026, mid- and senior-level employees received only about 20-40% of their eligible variable pay.",
+    "link": "https://economictimes.indiatimes.com/tech/information-tech/tcs-employees-get-50-70-variable-in-q1/articleshow/133606929.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 29 Aug 2026 13:00:21 +0530",
+    "collected_at": "2026-08-29T13:58:24.853965",
+    "summarized": true,
+    "summary_en": "TCS employees get 50-70% variable in Q1. The payout comes after a prolonged period of subdued variable compensation at the company. For nearly two years until the first quarter of fiscal 2026, mid- and senior-level employees received only about 20-40% of their eligible variable pay.",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
