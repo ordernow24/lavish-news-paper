@@ -223,5 +223,20 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "10209a154e430a42",
+    "title": "SK hynix open to US investment, sees memory shortage through 2030",
+    "raw_summary": "SK hynix CEO Kwak Noh-jung said SK hynix was looking globally for potential sites that could support its development and testing needs, citing power, water and government incentives among key considerations. Kwak also said the company's newly established AI Co. would serve as an investment vehicle for startups and companies that could support its next businesses.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-open-to-us-investment-sees-memory-shortage-through-2030/articleshow/133628356.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sun, 30 Aug 2026 17:05:19 +0530",
+    "collected_at": "2026-08-30T13:56:46.420157",
+    "summarized": true,
+    "summary_en": "SK hynix open to US investment, sees memory shortage through 2030. SK hynix CEO Kwak Noh-jung said SK hynix was looking globally for potential sites that could support its development and testing needs, citing power, water and government incentives among key considerations. Kwak also said...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
