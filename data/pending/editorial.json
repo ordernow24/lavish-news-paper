@@ -208,5 +208,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "0e398eba2168d6ab",
+    "title": "Step up regulation: On AYUSH medical education",
+    "raw_summary": "Alternative medicine systems should comply with quality control",
+    "link": "https://www.thehindu.com/opinion/editorial/step-up-regulation-on-ayush-medical-education/article71411043.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Tue, 01 Sep 2026 01:13:21 +0530",
+    "collected_at": "2026-08-31T21:34:53.912530",
+    "summarized": true,
+    "summary_en": "Step up regulation: On AYUSH medical education. Alternative medicine systems should comply with quality control",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "2702e3b9f614db89",
+    "title": "Deadly span: On vulture safety in India, threat of electrocution",
+    "raw_summary": "India’s power infrastructure is emerging as a big threat to vultures",
+    "link": "https://www.thehindu.com/opinion/editorial/deadly-span-on-vulture-safety-in-india-threat-of-electrocution/article71411071.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Tue, 01 Sep 2026 01:11:20 +0530",
+    "collected_at": "2026-08-31T21:34:53.912541",
+    "summarized": true,
+    "summary_en": "Deadly span: On vulture safety in India, threat of electrocution. India’s power infrastructure is emerging as a big threat to vultures",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
