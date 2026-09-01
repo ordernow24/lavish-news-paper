@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "e6dc0780cb290120",
+    "title": "Endurance test: On the Indian economy’s resilience",
+    "raw_summary": "The quarters ahead will test the stamina of India’s economic resilience",
+    "link": "https://www.thehindu.com/opinion/editorial/endurance-test-on-the-indian-economys-resilience/article71415445.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Wed, 02 Sep 2026 00:46:03 +0530",
+    "collected_at": "2026-09-01T19:29:43.343899",
+    "summarized": true,
+    "summary_en": "Endurance test: On the Indian economy’s resilience. The quarters ahead will test the stamina of India’s economic resilience",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "3dfac9c49a253c42",
+    "title": "Do not gamble: On the Russia-Ukraine conflict",
+    "raw_summary": "Russia must opt for diplomatic engagement with the West",
+    "link": "https://www.thehindu.com/opinion/editorial/do-not-gamble-on-the-russia-ukraine-conflict/article71415822.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Tue, 01 Sep 2026 23:51:05 +0530",
+    "collected_at": "2026-09-01T19:29:43.343909",
+    "summarized": true,
+    "summary_en": "Do not gamble: On the Russia-Ukraine conflict. Russia must opt for diplomatic engagement with the West",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
