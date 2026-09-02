@@ -223,5 +223,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "dfcc8b3bde2e794d",
+    "title": "Orthodoxy redux: On Keralam, religion and Muslim women’s rights",
+    "raw_summary": "Religion is oft used as a tool to suppress women in the public sphere",
+    "link": "https://www.thehindu.com/opinion/editorial/orthodoxy-redux-on-keralam-religion-and-muslim-womens-rights/article71419718.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Thu, 03 Sep 2026 00:51:39 +0530",
+    "collected_at": "2026-09-02T19:27:59.910283",
+    "summarized": true,
+    "summary_en": "Orthodoxy redux: On Keralam, religion and Muslim women’s rights. Religion is oft used as a tool to suppress women in the public sphere",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "64a846688e1d28c5",
+    "title": "Many layers: On onion produce, issues",
+    "raw_summary": "Farmers need more storage facilities and better distribution networks",
+    "link": "https://www.thehindu.com/opinion/editorial/many-layers-on-onion-produce-issues/article71419742.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Thu, 03 Sep 2026 00:43:11 +0530",
+    "collected_at": "2026-09-02T19:27:59.910294",
+    "summarized": true,
+    "summary_en": "Many layers: On onion produce, issues. Farmers need more storage facilities and better distribution networks",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "89cdaec1786f4dbc",
+    "title": "Tracking nursing: On the Nurses Registration and Tracking System",
+    "raw_summary": "A fully updated live nurses portal will be of immense benefit to the nation",
+    "link": "https://www.thehindu.com/opinion/editorial/tracking-nursing-on-the-nurses-registration-and-tracking-system/article71328779.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Wed, 02 Sep 2026 15:11:39 +0530",
+    "collected_at": "2026-09-02T19:27:59.910303",
+    "summarized": true,
+    "summary_en": "Tracking nursing: On the Nurses Registration and Tracking System. A fully updated live nurses portal will be of immense benefit to the nation",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
