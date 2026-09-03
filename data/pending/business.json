@@ -508,5 +508,20 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "5f905def2a92ad8c",
+    "title": "Calcutta exchange’s unlisted shares double on revival hopes",
+    "raw_summary": "Calcutta Stock Exchange shares have more than doubled in the unlisted market in three months as hopes of a revival gain momentum. The exchange is seeking to pause its voluntary exit process and explore opportunities across equities, derivatives, bonds, currencies and commodities, though any revival will require regulatory approvals and potential anchor investors.",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/calcutta-exchanges-unlisted-shares-double-on-revival-hopes/articleshow/133740959.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Thu, 03 Sep 2026 21:39:45 +0530",
+    "collected_at": "2026-09-03T19:23:26.376962",
+    "summarized": true,
+    "summary_en": "Calcutta exchange’s unlisted shares double on revival hopes. Calcutta Stock Exchange shares have more than doubled in the unlisted market in three months as hopes of a revival gain momentum. The exchange is seeking to pause its voluntary exit process and explore opportunities across equities...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]

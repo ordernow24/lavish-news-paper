@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "5d90dca27a02b434",
+    "title": "Forging consensus: on India and the SCO meeting",
+    "raw_summary": "India must broaden engagement with regional multilateral groups",
+    "link": "https://www.thehindu.com/opinion/editorial/forging-consensus-on-india-and-the-sco-meeting/article71424095.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Thu, 03 Sep 2026 23:01:50 +0530",
+    "collected_at": "2026-09-03T19:23:31.396587",
+    "summarized": true,
+    "summary_en": "Forging consensus: on India and the SCO meeting. India must broaden engagement with regional multilateral groups",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "035aa027433fd554",
+    "title": "Welcome move: on the Supreme Court and Gen Z protesters",
+    "raw_summary": "The relief granted to the Gen Z protesters must not stop with them",
+    "link": "https://www.thehindu.com/opinion/editorial/welcome-move-on-the-supreme-court-and-gen-z-protesters/article71424064.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Thu, 03 Sep 2026 22:57:13 +0530",
+    "collected_at": "2026-09-03T19:23:31.396598",
+    "summarized": true,
+    "summary_en": "Welcome move: on the Supreme Court and Gen Z protesters. The relief granted to the Gen Z protesters must not stop with them",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
