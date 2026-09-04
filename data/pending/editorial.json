@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "3fa6d147aea506a2",
+    "title": "Out of neglect bin: on perimenopausal policy",
+    "raw_summary": "The perimenopausal policy will ease access to care for women in midlife",
+    "link": "https://www.thehindu.com/opinion/editorial/out-of-neglect-bin-on-perimenopausal-policy/article71428165.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Fri, 04 Sep 2026 22:37:54 +0530",
+    "collected_at": "2026-09-04T19:04:10.112200",
+    "summarized": true,
+    "summary_en": "Out of neglect bin: on perimenopausal policy. The perimenopausal policy will ease access to care for women in midlife",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "c76a63b6a9c84987",
+    "title": "Warning on warming: on the UNEP report, Limiting Overshoot",
+    "raw_summary": "India must shed its victim mindset while acting on climate change",
+    "link": "https://www.thehindu.com/opinion/editorial/warning-on-warming-on-the-unep-report-limiting-overshoot/article71428123.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Fri, 04 Sep 2026 22:34:12 +0530",
+    "collected_at": "2026-09-04T19:04:10.112211",
+    "summarized": true,
+    "summary_en": "Warning on warming: on the UNEP report, Limiting Overshoot. India must shed its victim mindset while acting on climate change",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
