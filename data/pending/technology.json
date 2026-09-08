@@ -223,5 +223,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "34f5cc9cc5048b33",
+    "title": "The Product You See Isn’t the Product I See | How AI is Personalizing Retail Experiences | Srinivas Gattamneni, CEO, ADA",
+    "raw_summary": "",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/the-product-you-see-isnt-the-product-i-see-how-ai-is-personalizing-retail-experiences-srinivas-gattamneni-ceo-ada/videoshow/133918699.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Tue, 08 Sep 2026 15:09:22 +0530",
+    "collected_at": "2026-09-08T13:01:12.939328",
+    "summarized": true,
+    "summary_en": "The Product You See Isn’t the Product I See | How AI is Personalizing Retail Experiences | Srinivas Gattamneni, CEO, ADA. The Product You See Isn’t the Product I See | How AI is Personalizing Retail Experiences | Srinivas Gattamneni, CEO, ADA",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "f67e12ba134aa206",
+    "title": "Redefining enterprise growth with AI: Trust, data, and decision making is how ADA is writing the future chapters",
+    "raw_summary": "Enterprises are scaling with AI. The next chapter is about trust, data, decision making, and personalisation. Read how ADA is consolidating being a ‘Data and AI-Experience’ platform by integrating AI through the enterprise, and not just individual tools.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/redefining-enterprise-growth-with-ai-trust-data-and-decision-making-is-how-ada-is-writing-the-future-chapters/articleshow/133912040.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Tue, 08 Sep 2026 12:23:21 +0530",
+    "collected_at": "2026-09-08T13:01:12.939339",
+    "summarized": true,
+    "summary_en": "Redefining enterprise growth with AI: Trust, data, and decision making is how ADA is writing the future chapters. Enterprises are scaling with AI. The next chapter is about trust, data, decision making, and personalisation. Read how ADA is consolidating being a ‘Data and AI-Experience’ platform...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "ba9aac3f48fa1051",
+    "title": "French AI company Mistral hits $24 billion valuation in funding round",
+    "raw_summary": "Mistral said that the round was jointly led by existing investor PSG Equity, along with South Korea's Samsung Electronics and the EU-backed Scaleup Europe Fund, which both invested ‌in it for ⁠the ⁠first time.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/french-ai-company-mistral-hits-24-billion-valuation-in-funding-round/articleshow/133911829.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Tue, 08 Sep 2026 11:50:39 +0530",
+    "collected_at": "2026-09-08T13:01:12.939348",
+    "summarized": true,
+    "summary_en": "French AI company Mistral hits $24 billion valuation in funding round. Mistral said that the round was jointly led by existing investor PSG Equity, along with South Korea's Samsung Electronics and the EU-backed Scaleup Europe Fund, which both invested ‌in it for ⁠the ⁠first time.",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
