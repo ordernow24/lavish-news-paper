@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "a916bac2a5e4cea4",
+    "title": "Falling edifice: On the Delhi private hostel building collapse",
+    "raw_summary": "Delhi’s ambition as an education hub is at odds with its civic infrastructure",
+    "link": "https://www.thehindu.com/opinion/editorial/falling-edifice-on-the-delhi-private-hostel-building-collapse/article71442976.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Wed, 09 Sep 2026 00:49:57 +0530",
+    "collected_at": "2026-09-08T19:31:37.289716",
+    "summarized": true,
+    "summary_en": "Falling edifice: On the Delhi private hostel building collapse. Delhi’s ambition as an education hub is at odds with its civic infrastructure",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "7480bceefb953eb4",
+    "title": "Perilous retreat: On gram sabhas, tribal land issues",
+    "raw_summary": "Gram sabhas must have a veto on issues relating to tribal land",
+    "link": "https://www.thehindu.com/opinion/editorial/perilous-retreat-on-gram-sabhas-tribal-land-issues/article71442994.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Wed, 09 Sep 2026 00:32:49 +0530",
+    "collected_at": "2026-09-08T19:31:37.289727",
+    "summarized": true,
+    "summary_en": "Perilous retreat: On gram sabhas, tribal land issues. Gram sabhas must have a veto on issues relating to tribal land",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]

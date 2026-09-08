@@ -268,5 +268,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "b08ba5f98adf867a",
+    "title": "CCI closes real money games-related case against Google",
+    "raw_summary": "In 2022, Winzo Games Pvt Ltd filed a complaint against Google alleging restrictions for Real Money Games (RMG) on Google Play and about advertisement policy, among others. The Competition Commission of India (CCI) in 2024 ordered a detailed probe into the matter. Google made a commitment offering to address the anti-competition concerns, and the Online Gaming Act came into force from May 2026.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/cci-closes-real-money-games-related-case-against-google/articleshow/133933225.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Tue, 08 Sep 2026 22:03:41 +0530",
+    "collected_at": "2026-09-08T19:31:37.161409",
+    "summarized": true,
+    "summary_en": "CCI closes real money games-related case against Google. In 2022, Winzo Games Pvt Ltd filed a complaint against Google alleging restrictions for Real Money Games (RMG) on Google Play and about advertisement policy, among others. The Competition Commission of India (CCI) in 2024 ordered a...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "52eaf8efdcb0886e",
+    "title": "Qualcomm strikes AI chip deal with Amazon, offers right to buy about $4 billion in stock",
+    "raw_summary": "The deal also highlights increasingly intertwined financing in the AI boom, with Qualcomm granting Amazon warrants worth about $4 billion that vest with product purchases and allow the cloud giant to buy ‌shares at a ⁠fixed ⁠price of $161.26 apiece, according to a regulatory filing.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/qualcomm-strikes-ai-chip-deal-with-amazon-offers-right-to-buy-about-4-billion-in-stock/articleshow/133932526.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Tue, 08 Sep 2026 21:39:37 +0530",
+    "collected_at": "2026-09-08T19:31:37.161419",
+    "summarized": true,
+    "summary_en": "Qualcomm strikes AI chip deal with Amazon, offers right to buy about $4 billion in stock. The deal also highlights increasingly intertwined financing in the AI boom, with Qualcomm granting Amazon warrants worth about $4 billion that vest with product purchases and allow the cloud...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "76ea1168700af8db",
+    "title": "Crypto's shopping hack; Centre eyes Meta child safeguards",
+    "raw_summary": "Indians are buying groceries, fuel, food and gold via gift cards on overseas crypto platforms. This and more in today's ETtech Top 5.",
+    "link": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/indias-crypto-shopping-hack-centre-eyes-metas-us-child-safeguards/articleshow/133927283.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Tue, 08 Sep 2026 19:18:53 +0530",
+    "collected_at": "2026-09-08T19:31:37.161428",
+    "summarized": true,
+    "summary_en": "Crypto's shopping hack; Centre eyes Meta child safeguards. Indians are buying groceries, fuel, food and gold via gift cards on overseas crypto platforms. This and more in today's ETtech Top 5.",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
