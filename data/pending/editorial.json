@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "4499f955a7077812",
+    "title": "Ray of hope: on courts and reflexive arrests",
+    "raw_summary": "Courts are coming down on reflexive arrests of activists",
+    "link": "https://www.thehindu.com/opinion/editorial/ray-of-hope-on-courts-and-reflexive-arrests/article71447323.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Wed, 09 Sep 2026 22:58:59 +0530",
+    "collected_at": "2026-09-09T19:23:51.902526",
+    "summarized": true,
+    "summary_en": "Ray of hope: on courts and reflexive arrests. Courts are coming down on reflexive arrests of activists",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "6caeb1861d6a68f2",
+    "title": "Dangerous phase: on the crisis in West Asia",
+    "raw_summary": "The Iran war is plunging the region in an economic and security abyss",
+    "link": "https://www.thehindu.com/opinion/editorial/dangerous-phase-on-the-crisis-in-west-asia/article71447652.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Wed, 09 Sep 2026 22:55:16 +0530",
+    "collected_at": "2026-09-09T19:23:51.902536",
+    "summarized": true,
+    "summary_en": "Dangerous phase: on the crisis in West Asia. The Iran war is plunging the region in an economic and security abyss",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]

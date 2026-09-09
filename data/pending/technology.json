@@ -298,5 +298,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "4e5c202efbeedf67",
+    "title": "PhonePe to foray into UAE in maiden foreign outing",
+    "raw_summary": "The company has received a licence from the Central Bank of UAE and will soon be operationalising the same, its founder Sameer Nigam told reporters on the sidelines of the annual Global Fintech Festival here. Through the licence, PhonePe will be able to undertake a slew of activities, including the launch its own wallet, gift card, remittance services for the diaspora and also do local merchant acquiring, he added.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/phonepe-to-foray-into-uae-in-maiden-foreign-outing/articleshow/133975174.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Wed, 09 Sep 2026 21:23:40 +0530",
+    "collected_at": "2026-09-09T19:23:51.817683",
+    "summarized": true,
+    "summary_en": "PhonePe to foray into UAE in maiden foreign outing. The company has received a licence from the Central Bank of UAE and will soon be operationalising the same, its founder Sameer Nigam told reporters on the sidelines of the annual Global Fintech Festival here. Through...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "2d21ec4ab955a353",
+    "title": "Flipkart's new Minutes app; Anthropic employee sounds alarm",
+    "raw_summary": "Flipkart has launched a standalone app for its quick commerce unit Minutes. This and more in today’s ETtech Top 5.",
+    "link": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/flipkart-minutes-new-app-anthropic-researcher-sounds-alarm/articleshow/133971619.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Wed, 09 Sep 2026 19:38:00 +0530",
+    "collected_at": "2026-09-09T19:23:51.817694",
+    "summarized": true,
+    "summary_en": "Flipkart's new Minutes app; Anthropic employee sounds alarm. Flipkart has launched a standalone app for its quick commerce unit Minutes. This and more in today’s ETtech Top 5.",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "112d46bb2c534858",
+    "title": "'AI could kill all humans’: Anthropic employee raises alarm over AI arms race",
+    "raw_summary": "AI researcher Jacob Coxon has quit Anthropic and the AI industry, warning that companies such as Anthropic and OpenAI are moving too quickly towards superintelligence. He said advanced AI could pose an existential risk, while Anthropic researcher Evan Hubinger estimated a more than 10% chance of AI killing all humans within the next decade.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-researcher-quits-says-ai-firms-gambling-with-our-lives/articleshow/133951248.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Wed, 09 Sep 2026 09:29:47 +0530",
+    "collected_at": "2026-09-09T19:23:51.817738",
+    "summarized": true,
+    "summary_en": "'AI could kill all humans’: Anthropic employee raises alarm over AI arms race. AI researcher Jacob Coxon has quit Anthropic and the AI industry, warning that companies such as Anthropic and OpenAI are moving too quickly towards superintelligence. He said advanced AI could pose an...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
