@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "85b23abd056dfbb0",
+    "title": "Growth spurt: on data by Federation of Automobile Dealers’ Associations",
+    "raw_summary": "Alternative powertrains are now mainstream in automobiles",
+    "link": "https://www.thehindu.com/opinion/editorial/growth-spurt-on-data-by-federation-of-automobile-dealers-associations/article71451805.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Thu, 10 Sep 2026 22:46:31 +0530",
+    "collected_at": "2026-09-10T19:12:43.894852",
+    "summarized": true,
+    "summary_en": "Growth spurt: on data by Federation of Automobile Dealers’ Associations. Alternative powertrains are now mainstream in automobiles",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "c126c295092d810d",
+    "title": "Rude lessons: on the U.S.-Canada trade dispute, lessons for India",
+    "raw_summary": "India should learn from Canada and be wary of deals with the U.S.",
+    "link": "https://www.thehindu.com/opinion/editorial/rude-lessons-on-the-us-canada-trade-dispute-lessons-for-india/article71451767.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Thu, 10 Sep 2026 22:42:55 +0530",
+    "collected_at": "2026-09-10T19:12:43.894863",
+    "summarized": true,
+    "summary_en": "Rude lessons: on the U.S.-Canada trade dispute, lessons for India. India should learn from Canada and be wary of deals with the U.S.",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
