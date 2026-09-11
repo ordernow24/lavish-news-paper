@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "3e86a748e4873290",
+    "title": "More heft: On India and the 18th BRICS Summit",
+    "raw_summary": "The BRICS Summit allows India to advance its global ambitions",
+    "link": "https://www.thehindu.com/opinion/editorial/more-heft-on-india-and-the-18th-brics-summit/article71456976.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Sat, 12 Sep 2026 00:38:13 +0530",
+    "collected_at": "2026-09-11T19:14:08.323061",
+    "summarized": true,
+    "summary_en": "More heft: On India and the 18th BRICS Summit. The BRICS Summit allows India to advance its global ambitions",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "1482bf058e9ab555",
+    "title": "Eyes on the road: On India and road traffic fatalities",
+    "raw_summary": "Judicial fiat alone cannot prevent traffic fatalities",
+    "link": "https://www.thehindu.com/opinion/editorial/eyes-on-the-road-on-india-and-road-traffic-fatalities/article71456612.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Sat, 12 Sep 2026 00:30:35 +0530",
+    "collected_at": "2026-09-11T19:14:08.323072",
+    "summarized": true,
+    "summary_en": "Eyes on the road: On India and road traffic fatalities. Judicial fiat alone cannot prevent traffic fatalities",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
