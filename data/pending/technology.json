@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "a62d7f19ca16235e",
+    "title": "AI for a Billion Indians: Rahul Chari on PhonePe’s AI Strategy",
+    "raw_summary": "",
+    "link": "https://economictimes.indiatimes.com/tech/technology/ai-for-a-billion-indians-rahul-chari-on-phonepes-ai-strategy/videoshow/134120476.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 12 Sep 2026 14:34:47 +0530",
+    "collected_at": "2026-09-12T12:19:18.730367",
+    "summarized": true,
+    "summary_en": "AI for a Billion Indians: Rahul Chari on PhonePe’s AI Strategy. AI for a Billion Indians: Rahul Chari on PhonePe’s AI Strategy",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "c7919be66cf880e1",
+    "title": "The Next Decade of PhonePe and Future of Digital Payments | Deep Agarwal | Global Fintech Fest 2026",
+    "raw_summary": "",
+    "link": "https://economictimes.indiatimes.com/tech/technology/the-next-decade-of-phonepe-and-future-of-digital-payments-deep-agarwal-global-fintech-fest-2026/videoshow/134116971.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 12 Sep 2026 13:24:53 +0530",
+    "collected_at": "2026-09-12T12:19:18.730379",
+    "summarized": true,
+    "summary_en": "The Next Decade of PhonePe and Future of Digital Payments | Deep Agarwal | Global Fintech Fest 2026. The Next Decade of PhonePe and Future of Digital Payments | Deep Agarwal | Global Fintech Fest 2026",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
