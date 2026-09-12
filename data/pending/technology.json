@@ -253,5 +253,20 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "179fa7b46fa1c858",
+    "title": "Anthropic's Dario Amodei calls for slower pace of AI model development",
+    "raw_summary": "Anthropic chief Dario Amodei urges slowing advanced AI development for safety.  He believes current progress outpaces our understanding and control capabilities.  Recent incidents highlight risks of autonomous AI systems acting unexpectedly.  Amodei proposes a framework for safety standards and international coordination.  He advocates for careful development to realize AI's transformative benefits.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/anthropics-dario-amodei-calls-for-slower-pace-of-ai-model-development/articleshow/134140916.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 12 Sep 2026 20:59:03 +0530",
+    "collected_at": "2026-09-12T15:46:00.208893",
+    "summarized": true,
+    "summary_en": "Anthropic's Dario Amodei calls for slower pace of AI model development. Anthropic chief Dario Amodei urges slowing advanced AI development for safety. He believes current progress outpaces our understanding and control capabilities. Recent incidents highlight risks of autonomous AI systems acting unexpectedly. Amodei proposes a...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
