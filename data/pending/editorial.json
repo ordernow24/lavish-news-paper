@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "eb05cfbf5b149454",
+    "title": "AI cooperation: On Artificial Intelligence at a crossroads",
+    "raw_summary": "The BRICS framework is an alternative to a geopolitical view of AI development",
+    "link": "https://www.thehindu.com/opinion/editorial/ai-cooperation-on-artificial-intelligence-at-a-crossroads/article71468418.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Wed, 16 Sep 2026 01:12:03 +0530",
+    "collected_at": "2026-09-15T19:47:04.434891",
+    "summarized": true,
+    "summary_en": "AI cooperation: On Artificial Intelligence at a crossroads. The BRICS framework is an alternative to a geopolitical view of AI development",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "9c371bc012d6c7b5",
+    "title": "Stability at the top: On the tennis and the U.S. Open",
+    "raw_summary": "Both men’s and women’s tennis now wear a settled look",
+    "link": "https://www.thehindu.com/opinion/editorial/stability-at-the-top-on-the-tennis-and-the-us-open/article71468463.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Wed, 16 Sep 2026 01:04:17 +0530",
+    "collected_at": "2026-09-15T19:47:04.434901",
+    "summarized": true,
+    "summary_en": "Stability at the top: On the tennis and the U.S. Open. Both men’s and women’s tennis now wear a settled look",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
