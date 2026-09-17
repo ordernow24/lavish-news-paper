@@ -223,5 +223,20 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "f11dc10d60b3cfad",
+    "title": "Complex priorities: On UPI transactions, MDR charges",
+    "raw_summary": "A fear of political fallout has led to an overly complex MDR structure on UPI",
+    "link": "https://www.thehindu.com/opinion/editorial/complex-priorities-on-upi-transactions-mdr-charges/article71476513.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Fri, 18 Sep 2026 00:49:05 +0530",
+    "collected_at": "2026-09-17T19:48:25.370806",
+    "summarized": true,
+    "summary_en": "Complex priorities: On UPI transactions, MDR charges. A fear of political fallout has led to an overly complex MDR structure on UPI",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
