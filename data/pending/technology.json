@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "2cb26c5705a401ea",
+    "title": "Fujifilm bets on semiconductors to drive India growth; inks pact with Tata Electronics",
+    "raw_summary": "Fujifilm Thursday said it is investing about Rs 800 crore to establish a semiconductor materials plant in the Dholera Special Investment Region (DSIR) in phases. It also signed a strategic memorandum of understanding with Tata Electronics to accelerate the development of India’s semiconductor materials ecosystem around the latter’s upcoming fab in Dholera, Gujarat.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/fujifilm-bets-on-semiconductors-to-drive-india-growth-inks-pact-with-tata-electronics/articleshow/134350286.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 19 Sep 2026 13:26:55 +0530",
+    "collected_at": "2026-09-19T12:39:12.774018",
+    "summarized": true,
+    "summary_en": "Fujifilm bets on semiconductors to drive India growth; inks pact with Tata Electronics. Fujifilm Thursday said it is investing about Rs 800 crore to establish a semiconductor materials plant in the Dholera Special Investment Region (DSIR) in phases. It also signed a strategic memorandum of...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "54c0fbb97b12b23a",
+    "title": "AI could double US GDP growth to 4% next year amid capital hurdles, says Elon Musk",
+    "raw_summary": "The projection comes at a time when the broader artificial intelligence investment landscape encounters its first major macroeconomic test, according to a recent report by brokerage firm Dolat Capital.",
+    "link": "https://economictimes.indiatimes.com/tech/tech-bytes/ai-could-double-us-gdp-growth-to-4-next-year-amid-capital-hurdles-says-elon-musk/articleshow/134348534.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 19 Sep 2026 11:02:25 +0530",
+    "collected_at": "2026-09-19T12:39:12.774028",
+    "summarized": true,
+    "summary_en": "AI could double US GDP growth to 4% next year amid capital hurdles, says Elon Musk. The projection comes at a time when the broader artificial intelligence investment landscape encounters its first major macroeconomic test, according to a recent report by brokerage firm Dolat Capital.",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
