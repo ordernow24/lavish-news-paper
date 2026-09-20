@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "d0dc2119db4879cc",
+    "title": "Serious escalation: On the U.S., Russia Sanctions Act and India",
+    "raw_summary": "The new U.S. law on Russian oil imports carries more legal weight",
+    "link": "https://www.thehindu.com/opinion/editorial/serious-escalation-on-the-us-russia-sanctions-act-and-india/article71488040.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Sun, 20 Sep 2026 23:40:03 +0530",
+    "collected_at": "2026-09-20T18:59:38.111875",
+    "summarized": true,
+    "summary_en": "Serious escalation: On the U.S., Russia Sanctions Act and India. The new U.S. law on Russian oil imports carries more legal weight",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "2ae88e38692ea6c3",
+    "title": "Antidote to drugs: On the counterfeit medicine racket in Bengaluru, Karnataka",
+    "raw_summary": "The government must tighten the monitoring of drug production",
+    "link": "https://www.thehindu.com/opinion/editorial/antidote-to-drugs-on-the-counterfeit-medicine-racket-in-bengaluru-karnataka/article71480878.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Sun, 20 Sep 2026 23:29:08 +0530",
+    "collected_at": "2026-09-20T18:59:38.111886",
+    "summarized": true,
+    "summary_en": "Antidote to drugs: On the counterfeit medicine racket in Bengaluru, Karnataka. The government must tighten the monitoring of drug production",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
