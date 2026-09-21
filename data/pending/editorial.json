@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "eb8d884c453ec631",
+    "title": "Unsafe space: on the U.S. and ‘on-orbit space control weapons‘",
+    "raw_summary": "Deployment of weapons calls for multilateral governance in space",
+    "link": "https://www.thehindu.com/opinion/editorial/unsafe-space-on-the-us-and-on-orbit-space-control-weapons/article71476527.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Mon, 21 Sep 2026 22:43:48 +0530",
+    "collected_at": "2026-09-21T20:30:23.396866",
+    "summarized": true,
+    "summary_en": "Unsafe space: on the U.S. and ‘on-orbit space control weapons‘. Deployment of weapons calls for multilateral governance in space",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "85898307dab303f9",
+    "title": "Presumed ineligible: on the Election Commission of India’s SIR process",
+    "raw_summary": "The Election Commission of India must end its method of deleting first and verifying later",
+    "link": "https://www.thehindu.com/opinion/editorial/presumed-ineligible-on-the-election-commission-of-indias-sir-process/article71491681.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Mon, 21 Sep 2026 22:39:50 +0530",
+    "collected_at": "2026-09-21T20:30:23.396893",
+    "summarized": true,
+    "summary_en": "Presumed ineligible: on the Election Commission of India’s SIR process. The Election Commission of India must end its method of deleting first and verifying later",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
