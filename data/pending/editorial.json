@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "a6cf409108ad173b",
+    "title": "Freezing democracy: on the Election Commission of India and West Bengal",
+    "raw_summary": "The Election Commission of India is functioning as a tool of the Bharatiya Janata Party in West Bengal",
+    "link": "https://www.thehindu.com/opinion/editorial/freezing-democracy-on-the-eci-and-west-bengal/article71495672.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Tue, 22 Sep 2026 23:08:20 +0530",
+    "collected_at": "2026-09-22T19:50:22.967938",
+    "summarized": true,
+    "summary_en": "Freezing democracy: on the Election Commission of India and West Bengal. The Election Commission of India is functioning as a tool of the Bharatiya Janata Party in West Bengal",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "61deb25a43bd2a48",
+    "title": "Water wealth: on groundwater exploitation in Punjab",
+    "raw_summary": "Groundwater exploitation in Punjab disincentivises small farmers",
+    "link": "https://www.thehindu.com/opinion/editorial/water-wealth-on-groundwater-exploitation-in-punjab/article71495725.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Tue, 22 Sep 2026 22:41:37 +0530",
+    "collected_at": "2026-09-22T19:50:22.967948",
+    "summarized": true,
+    "summary_en": "Water wealth: on groundwater exploitation in Punjab. Groundwater exploitation in Punjab disincentivises small farmers",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
