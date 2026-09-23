@@ -523,5 +523,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "ff1cafc43f1448df",
+    "title": "Melania Trump rings New York Stock Exchange opening bell to launch new women's initiative Imperia",
+    "raw_summary": "On Wednesday, Melania Trump celebrated the launch of her initiative, Imperia, at the New York Stock Exchange, championing women's leadership and economic empowerment. She emphasized the significant impact women make on the global economy during her remarks. Furthermore, she brought attention to global issues like the reunification of war-separated children. Excitingly, a new docuseries centered on Melania Trump is slated for release in the upcoming fall season.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/melania-trump-rings-new-york-stock-exchange-opening-bell-to-launch-new-womens-initiative-imperia/articleshow/134443367.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Wed, 23 Sep 2026 22:57:05 +0530",
+    "collected_at": "2026-09-23T19:45:59.413148",
+    "summarized": true,
+    "summary_en": "Melania Trump rings New York Stock Exchange opening bell to launch new women's initiative Imperia. On Wednesday, Melania Trump celebrated the launch of her initiative, Imperia, at the New York Stock Exchange, championing women's leadership and economic empowerment. She emphasized the significant impact women make...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "683d7ebf175b8d84",
+    "title": "Fed Governor Michael Barr signals more rate hikes needed to tame inflation",
+    "raw_summary": "Federal Reserve Governor Michael Barr announced that additional rate hikes may be necessary to manage inflation. He indicated that while economic growth is strong, inflation remains above the target of 2%. The central bank recently raised the policy rate to a range of 3.75%-4.00%. Barr's perspective contrasts with the Fed Chairman, who has not provided guidance on future rates.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-governor-michael-barr-signals-more-rate-hikes-needed-to-tame-inflation/articleshow/134442493.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Wed, 23 Sep 2026 22:14:32 +0530",
+    "collected_at": "2026-09-23T19:45:59.413159",
+    "summarized": true,
+    "summary_en": "Fed Governor Michael Barr signals more rate hikes needed to tame inflation. Federal Reserve Governor Michael Barr announced that additional rate hikes may be necessary to manage inflation. He indicated that while economic growth is strong, inflation remains above the target of 2%. The central...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "c57d4bf568dbf2cf",
+    "title": "10-year US Treasury yields surges over 5.05% to 19-year high",
+    "raw_summary": "The 10-year US Treasury yield climbed to 5.058%, its highest level since July 2007, as fresh services and manufacturing data raised concerns about further Federal Reserve rate hikes. Rising yields intensified pressure on equities, particularly growth and technology stocks.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/10-year-us-treasury-yields-surges-over-5-05-to-19-year-high/articleshow/134441042.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Wed, 23 Sep 2026 20:22:02 +0530",
+    "collected_at": "2026-09-23T19:45:59.413168",
+    "summarized": true,
+    "summary_en": "10-year US Treasury yields surges over 5.05% to 19-year high. The 10-year US Treasury yield climbed to 5.058%, its highest level since July 2007, as fresh services and manufacturing data raised concerns about further Federal Reserve rate hikes. Rising yields intensified pressure on equities, particularly...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]

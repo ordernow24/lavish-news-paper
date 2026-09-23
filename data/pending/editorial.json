@@ -208,5 +208,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "d27789c6f5c1c7a2",
+    "title": "Trading smart: on the India-New Zealand FTA",
+    "raw_summary": "The India-NZ FTA shows how smaller deals can complement big-bang trade pacts",
+    "link": "https://www.thehindu.com/opinion/editorial/trading-smart-on-the-india-new-zealand-fta/article71499956.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Wed, 23 Sep 2026 22:47:58 +0530",
+    "collected_at": "2026-09-23T19:46:02.776912",
+    "summarized": true,
+    "summary_en": "Trading smart: on the India-New Zealand FTA. The India-NZ FTA shows how smaller deals can complement big-bang trade pacts",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "c9431a348c913a1b",
+    "title": "Deep rot: on the Election Commission of India’s functioning during its SIR",
+    "raw_summary": "With the SIR thoroughly vitiated, CEC Gyanesh Kumar must resign",
+    "link": "https://www.thehindu.com/opinion/editorial/deep-rot-on-the-election-commission-of-indias-functioning-during-its-sir/article71500793.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Wed, 23 Sep 2026 22:43:46 +0530",
+    "collected_at": "2026-09-23T19:46:02.776927",
+    "summarized": true,
+    "summary_en": "Deep rot: on the Election Commission of India’s functioning during its SIR. With the SIR thoroughly vitiated, CEC Gyanesh Kumar must resign",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
