@@ -388,5 +388,20 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "5f4527fcdb7f0ec4",
+    "title": "European Union vows to defend its stand against X after the US backs a court challenge from Elon Musk",
+    "raw_summary": "The European Union imposed a significant fine on social media platform X for regulatory violations. Following this, the U.S. government expressed support for Musk's legal efforts to dismiss the fine. The European Commission emphasised its right to enforce legislation aimed at protecting citizens. This situation has escalated tensions between Brussels and Washington regarding regulatory power. Officials from both sides have engaged in discussions about jurisdiction and implications for American companies.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/european-union-vows-to-defend-its-stand-against-x-after-the-us-backs-a-court-challenge-from-elon-musk/articleshow/134490061.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Fri, 25 Sep 2026 20:16:24 +0530",
+    "collected_at": "2026-09-25T20:05:50.374843",
+    "summarized": true,
+    "summary_en": "European Union vows to defend its stand against X after the US backs a court challenge from Elon Musk. The European Union imposed a significant fine on social media platform X for regulatory violations. Following this, the U.S. government expressed support for Musk's legal efforts...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
