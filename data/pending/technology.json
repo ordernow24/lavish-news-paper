@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "871c706aad2209b7",
+    "title": "AI, semiconductors, quantum to drive India's next infrastructure push: FM Sitharaman",
+    "raw_summary": "Union Finance Minister Nirmala Sitharaman highlighted the need for investment in AI, semiconductor chips, and quantum technology. She stated that strengthening digital infrastructure will support AI adoption across various sectors. Additionally, Sitharaman underscored the importance of providing AI solutions to micro, small, and medium enterprises. She believes that achieving over 10 percent economic growth is possible with greater effort in all sectors.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indias-infrastructure-revolution-fm-sitharaman-promotes-ai-semiconductors-and-quantum-technology-investments/articleshow/134504988.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 26 Sep 2026 17:56:13 +0530",
+    "collected_at": "2026-09-26T13:20:11.354213",
+    "summarized": true,
+    "summary_en": "AI, semiconductors, quantum to drive India's next infrastructure push: FM Sitharaman. Union Finance Minister Nirmala Sitharaman highlighted the need for investment in AI, semiconductor chips, and quantum technology. She stated that strengthening digital infrastructure will support AI adoption across various sectors. Additionally, Sitharaman underscored the...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "c423e02073367132",
+    "title": "OpenAI works to understand full scope of agent activity as user data leak emerges",
+    "raw_summary": "OpenAI's ongoing battle also reflects a yawning gap between the strength of the models the company is testing and its capacity to oversee or even track their actions.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-works-to-understand-full-scope-of-agent-activity-as-user-data-leak-emerges/articleshow/134498376.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 26 Sep 2026 10:16:18 +0530",
+    "collected_at": "2026-09-26T13:20:11.354223",
+    "summarized": true,
+    "summary_en": "OpenAI works to understand full scope of agent activity as user data leak emerges. OpenAI's ongoing battle also reflects a yawning gap between the strength of the models the company is testing and its capacity to oversee or even track their actions.",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
