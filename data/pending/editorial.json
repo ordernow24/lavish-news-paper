@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "7ddba7af41cd447b",
+    "title": "In need of an overhaul: on the Election Commission of India’s press note",
+    "raw_summary": "The Election Commission of India’s response is mere damage control, the Special Intensive Revision’s ill-effects must be undone",
+    "link": "https://www.thehindu.com/opinion/editorial/in-need-of-an-overhaul-on-the-election-commission-of-indias-press-note/article71516004.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Mon, 28 Sep 2026 00:10:28 +0530",
+    "collected_at": "2026-09-27T19:50:26.238469",
+    "summarized": true,
+    "summary_en": "In need of an overhaul: on the Election Commission of India’s press note. The Election Commission of India’s response is mere damage control, the Special Intensive Revision’s ill-effects must be undone",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "160e6ec11376707b",
+    "title": "New equilibrium: on the recalibration of U.S.-China ties",
+    "raw_summary": "As the United States and China recalibrate ties, implications for other nations are huge",
+    "link": "https://www.thehindu.com/opinion/editorial/new-equilibrium-on-the-recalibration-of-us-china-ties/article71515985.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Mon, 28 Sep 2026 00:06:43 +0530",
+    "collected_at": "2026-09-27T19:50:26.238475",
+    "summarized": true,
+    "summary_en": "New equilibrium: on the recalibration of U.S.-China ties. As the United States and China recalibrate ties, implications for other nations are huge",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
