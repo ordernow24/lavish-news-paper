@@ -508,5 +508,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "5d5cff170bbda666",
+    "title": "US stocks: US market ends lower as bond yields hold near multi-decade highs",
+    "raw_summary": "US stocks closed slightly lower as consumer confidence fell to a significant low not seen in over 12 years. Rising government bond yields have affected investor sentiments before upcoming economic data releases. Reports indicated a decline in job openings and a pessimistic outlook from households regarding the economy. Multiple Federal Reserve officials expressed differing views on the need for future interest rate hikes.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/us-stocks-us-market-ends-slightly-lower-as-bond-yields-hold-near-multi-decade-highs/articleshow/134573718.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Wed, 30 Sep 2026 01:42:07 +0530",
+    "collected_at": "2026-09-29T20:58:49.144688",
+    "summarized": true,
+    "summary_en": "US stocks: US market ends lower as bond yields hold near multi-decade highs. US stocks closed slightly lower as consumer confidence fell to a significant low not seen in over 12 years. Rising government bond yields have affected investor sentiments before upcoming economic data releases...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "6768af6c64b39575",
+    "title": "Goldman Sachs, BNP Paribas divest over 68 lakh BSE shares worth Rs 2,186 crore ahead of Nifty 50 inclusion",
+    "raw_summary": "Goldman Sachs and BNP Paribas divested 68.33 lakh shares of BSE through bulk deals on the NSE. The combined sale amounted to approximately Rs 2,186.44 crore and occurred before BSE's entry into the Nifty 50 index. UTI Mutual Fund and Nippon India Mutual Fund purchased a total of 52.43 lakh shares of BSE. BSE shares ended 3.31% higher at Rs 3,200, reflecting significant market interest.",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-bnp-paribas-divest-over-68-lakh-bse-shares-worth-rs-2186-crore-ahead-of-nifty-50-inclusion/articleshow/134573364.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Wed, 30 Sep 2026 00:54:26 +0530",
+    "collected_at": "2026-09-29T20:58:49.144699",
+    "summarized": true,
+    "summary_en": "Goldman Sachs, BNP Paribas divest over 68 lakh BSE shares worth Rs 2,186 crore ahead of Nifty 50 inclusion. Goldman Sachs and BNP Paribas divested 68.33 lakh shares of BSE through bulk deals on the NSE. The combined sale amounted to approximately Rs 2,186.44 crore...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "314a86c9ca3f6019",
+    "title": "Fed rate hike 'not urgent', says John Williams; Austan Goolsbee warns against 'playing with fire'",
+    "raw_summary": "Federal Reserve Bank of New York President John Williams stated there could be one more interest rate increase before year-end. He emphasized that the central bank is not in a hurry to act immediately as it awaits more economic data. Williams projected that inflation might end the year at approximately 3.5% before returning to the Fed's target by 2028.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-hike-not-urgent-says-john-williams-austan-goolsbee-warns-against-playing-with-fire/articleshow/134573558.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Wed, 30 Sep 2026 01:17:39 +0530",
+    "collected_at": "2026-09-29T20:58:49.144708",
+    "summarized": true,
+    "summary_en": "Fed rate hike 'not urgent', says John Williams; Austan Goolsbee warns against 'playing with fire'. Federal Reserve Bank of New York President John Williams stated there could be one more interest rate increase before year-end. He emphasized that the central bank is not in a...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]

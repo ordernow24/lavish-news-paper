@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "a91a600743a45fc1",
+    "title": "Silver lining: on the Samarkand Chess Olympiad and India",
+    "raw_summary": "That India came second to Uzbekistan in Chess Olympiad should not be dispiriting",
+    "link": "https://www.thehindu.com/opinion/editorial/silver-lining-on-the-samarkand-chess-olympiad-and-india/article71524249.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Tue, 29 Sep 2026 23:53:00 +0530",
+    "collected_at": "2026-09-29T20:58:54.631105",
+    "summarized": true,
+    "summary_en": "Silver lining: on the Samarkand Chess Olympiad and India. That India came second to Uzbekistan in Chess Olympiad should not be dispiriting",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "dad1b38211b9c31e",
+    "title": "State of anticipation: on Jammu and Kashmir and Statehood",
+    "raw_summary": "J&amp;K should be given its Statehood without any further delay",
+    "link": "https://www.thehindu.com/opinion/editorial/state-of-anticipation/article71524628.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Tue, 29 Sep 2026 23:48:05 +0530",
+    "collected_at": "2026-09-29T20:58:54.631117",
+    "summarized": true,
+    "summary_en": "State of anticipation: on Jammu and Kashmir and Statehood. J&amp;K should be given its Statehood without any further delay",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
