@@ -523,5 +523,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "e2a5b06a9eca9097",
+    "title": "France’s 10-year bond yield heads for biggest quarterly surge since 1987",
+    "raw_summary": "France's bond yields have been rising sharply, with September seeing the largest increase in decades. Investors are concerned about inflation as energy costs continue to rise, impacting fiscal stability. The government plans to issue €340 billion in bonds next year, which could strain its fiscal position further. Economic indicators suggest that pressures on interest rates may remain elevated going forward.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/frances-10-year-bond-yield-heads-for-biggest-quarterly-surge-since-1987/articleshow/134601116.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Thu, 01 Oct 2026 00:16:33 +0530",
+    "collected_at": "2026-09-30T20:56:39.381858",
+    "summarized": true,
+    "summary_en": "France’s 10-year bond yield heads for biggest quarterly surge since 1987. France's bond yields have been rising sharply, with September seeing the largest increase in decades. Investors are concerned about inflation as energy costs continue to rise, impacting fiscal stability. The government plans to issue...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "a3b56aa79283cfe8",
+    "title": "US SEC proposes wider retail investor access to private assets amid risk concerns",
+    "raw_summary": "The SEC has proposed new rules to expand access to private assets typically available only to wealthy investors. These rules aim to allow more professionals to qualify as accredited investors, which may lead to higher returns. Critics express concern that this move could expose retail investors to significant risks and fees. Additionally, proposed changes would allow closed-end funds to redeem shares more frequently and offer varied share classes.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-sec-proposes-wider-retail-investor-access-to-private-assets-amid-risk-concerns/articleshow/134600545.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Wed, 30 Sep 2026 23:47:49 +0530",
+    "collected_at": "2026-09-30T20:56:39.381864",
+    "summarized": true,
+    "summary_en": "US SEC proposes wider retail investor access to private assets amid risk concerns. The SEC has proposed new rules to expand access to private assets typically available only to wealthy investors. These rules aim to allow more professionals to qualify as accredited investors, which may...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]

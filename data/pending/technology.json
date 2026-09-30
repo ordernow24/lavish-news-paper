@@ -313,5 +313,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "ce7815c895b439ad",
+    "title": "Google asks EU court to suspend order to open up to AI chatbots, search engine rivals",
+    "raw_summary": "The company, which on Tuesday took the European Commission to court over the order, said it also applied for an interim measure at the Luxembourg General Court, Europe's second-highest court.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/google-asks-eu-court-to-suspend-order-to-open-up-to-ai-chatbots-search-engine-rivals/articleshow/134599933.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Wed, 30 Sep 2026 22:54:56 +0530",
+    "collected_at": "2026-09-30T20:56:43.937950",
+    "summarized": true,
+    "summary_en": "Google asks EU court to suspend order to open up to AI chatbots, search engine rivals. The company, which on Tuesday took the European Commission to court over the order, said it also applied for an interim measure at the Luxembourg General Court, Europe's second-highest...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "096aadfd0605443b",
+    "title": "FTC opens probe into AI giants including Anthropic and OpenAI, source says",
+    "raw_summary": "The Federal Trade Commission is opening a sweeping probe into Anthropic, OpenAI and other AI labs to uncover the potential dangers their technology poses to consumers, a source familiar with the matter told Reuters on Wednesday.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ftc-opens-probe-into-ai-giants-including-anthropic-and-openai-source-says/articleshow/134599896.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Wed, 30 Sep 2026 22:52:43 +0530",
+    "collected_at": "2026-09-30T20:56:43.937956",
+    "summarized": true,
+    "summary_en": "FTC opens probe into AI giants including Anthropic and OpenAI, source says. The Federal Trade Commission is opening a sweeping probe into Anthropic, OpenAI and other AI labs to uncover the potential dangers their technology poses to consumers, a source familiar with the matter told...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "87394a35d33783aa",
+    "title": "ElevenLabs' valuation doubles to $22 billion on surging AI voice-agent demand",
+    "raw_summary": "ElevenLabs said on Wednesday it had completed a $300 million employee tender offer valuing the AI voice generation startup at $22 billion, twice the valuation it secured in its February funding round. The tender was led by Wellington and T.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elevenlabs-valuation-doubles-to-22-billion-on-surging-ai-voice-agent-demand/articleshow/134599046.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Wed, 30 Sep 2026 22:05:05 +0530",
+    "collected_at": "2026-09-30T20:56:43.937962",
+    "summarized": true,
+    "summary_en": "ElevenLabs' valuation doubles to $22 billion on surging AI voice-agent demand. ElevenLabs said on Wednesday it had completed a $300 million employee tender offer valuing the AI voice generation startup at $22 billion, twice the valuation it secured in its February funding round. The tender...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]

@@ -223,5 +223,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "3dc9a9f252b73f57",
+    "title": "Good foundation: on India’s strong industrial growth performance",
+    "raw_summary": "The festive season looks set to build on months of strong industrial growth",
+    "link": "https://www.thehindu.com/opinion/editorial/good-foundation-on-indias-strong-industrial-growth-performance/article71524281.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Thu, 01 Oct 2026 00:35:07 +0530",
+    "collected_at": "2026-09-30T20:56:44.041267",
+    "summarized": true,
+    "summary_en": "Good foundation: on India’s strong industrial growth performance. The festive season looks set to build on months of strong industrial growth",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "ee56521a88a74cb3",
+    "title": "Bitter pills: on Court’s intervention, drug pricing",
+    "raw_summary": "The Supreme Court did well to intervene in drug pricing by retailers",
+    "link": "https://www.thehindu.com/opinion/editorial/bitter-pills-on-courts-intervention-drug-pricing/article71528814.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Thu, 01 Oct 2026 00:34:29 +0530",
+    "collected_at": "2026-09-30T20:56:44.041274",
+    "summarized": true,
+    "summary_en": "Bitter pills: on Court’s intervention, drug pricing. The Supreme Court did well to intervene in drug pricing by retailers",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "57ad5658cdca1938",
+    "title": "Ground control: On ISRO, policy and its focus",
+    "raw_summary": "ISRO must focus on space technology as a tool for development",
+    "link": "https://www.thehindu.com/opinion/editorial/ground-control-on-isro-policy-and-and-its-focus/article71439288.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Wed, 30 Sep 2026 15:47:24 +0530",
+    "collected_at": "2026-09-30T20:56:44.041279",
+    "summarized": true,
+    "summary_en": "Ground control: On ISRO, policy and its focus. ISRO must focus on space technology as a tool for development",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
