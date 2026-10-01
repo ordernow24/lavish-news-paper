@@ -433,5 +433,20 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "b833e22f87606102",
+    "title": "Fed’s Jefferson urges patience on rates; Kashkari sees more hikes ahead",
+    "raw_summary": "Federal Reserve Vice Chair Philip Jefferson stated that he sees no immediate need for further interest rate adjustments. He emphasized that future decisions would depend on analyzing economic data trends and risks. Minneapolis Fed President Neel Kashkari expressed uncertainty regarding the timing of the next rate hike amidst strong economic performance. Both officials acknowledged the ongoing challenges of managing inflation that exceeds the 2% target.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-jefferson-urges-patience-on-rates-kashkari-sees-more-hikes-ahead/articleshow/134626712.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Fri, 02 Oct 2026 01:12:38 +0530",
+    "collected_at": "2026-10-01T21:13:30.376813",
+    "summarized": true,
+    "summary_en": "Fed’s Jefferson urges patience on rates; Kashkari sees more hikes ahead. Federal Reserve Vice Chair Philip Jefferson stated that he sees no immediate need for further interest rate adjustments. He emphasized that future decisions would depend on analyzing economic data trends and risks. Minneapolis Fed...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]

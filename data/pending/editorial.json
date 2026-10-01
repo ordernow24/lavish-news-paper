@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "d0f74c02a56d2764",
+    "title": "Other than outrage: On women, unsafe public spaces",
+    "raw_summary": "Restrictions on women cannot be the answer to unsafe public spaces",
+    "link": "https://www.thehindu.com/opinion/editorial/other-than-outrage-on-women-unsafe-public-spaces/article71533047.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Fri, 02 Oct 2026 00:19:33 +0530",
+    "collected_at": "2026-10-01T21:13:34.396979",
+    "summarized": true,
+    "summary_en": "Other than outrage: On women, unsafe public spaces. Restrictions on women cannot be the answer to unsafe public spaces",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "fd492abef1fb02f7",
+    "title": "Season’s end: On the India Meteorological Department forecasts, rainfall deficit",
+    "raw_summary": "The IMD is conservative when it comes to projecting rainfall deficit",
+    "link": "https://www.thehindu.com/opinion/editorial/seasons-end-on-the-india-meteorological-department-forecasts-rainfall-deficit/article71533150.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Thu, 01 Oct 2026 23:59:06 +0530",
+    "collected_at": "2026-10-01T21:13:34.396992",
+    "summarized": true,
+    "summary_en": "Season’s end: On the India Meteorological Department forecasts, rainfall deficit. The IMD is conservative when it comes to projecting rainfall deficit",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
