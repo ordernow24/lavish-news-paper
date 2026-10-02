@@ -223,5 +223,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "ef436498cac568d6",
+    "title": "Karnataka govt’s Innoverse identifies seven startups for deeptech scale-up programme",
+    "raw_summary": "The programme will support startups with market access, capital mobilisation, policy support, and access to technology and scale-up infrastructure, the IT/BT department said in a statement. The cohort comprises aerospace and defence startup AquaAirX Autonomous Systems, biotech startup Fibroheal Woundcare, space-tech startup Hyspace Technologies, deftech startup OptM Media Solutions, space and propulsion startup SpaceFields, autonomous systems startup UNMANND Autonomy, and navigation and sensing startup Yaanendriya.",
+    "link": "https://economictimes.indiatimes.com/tech/startups/karnataka-govts-innoverse-identifies-seven-startups-for-deeptech-scale-up-programme/articleshow/134641803.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Fri, 02 Oct 2026 19:49:53 +0530",
+    "collected_at": "2026-10-02T14:55:33.700165",
+    "summarized": true,
+    "summary_en": "Karnataka govt’s Innoverse identifies seven startups for deeptech scale-up programme. The programme will support startups with market access, capital mobilisation, policy support, and access to technology and scale-up infrastructure, the IT/BT department said in a statement. The cohort comprises aerospace and defence startup AquaAirX Autonomous...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "60365643d874a23d",
+    "title": "Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows",
+    "raw_summary": "Companies routinely warn that policy changes could affect their business, particularly government contractors. For example, SpaceX said in its IPO filing that maintaining strong relationships with US government agencies is critical to its business and warned that any deterioration in those relationships could materially harm its ability to retain existing business and win new opportunities.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-warns-government-attitudes-may-hurt-customer-ties-ipo-prospectus-shows/articleshow/134637989.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Fri, 02 Oct 2026 16:42:36 +0530",
+    "collected_at": "2026-10-02T14:55:33.700172",
+    "summarized": true,
+    "summary_en": "Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows. Companies routinely warn that policy changes could affect their business, particularly government contractors. For example, SpaceX said in its IPO filing that maintaining strong relationships with US government agencies is critical to its business...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "92abc36dc8eafcbf",
+    "title": "Anushka Sharma-backed Slurrp Farm explores fresh fundraise as existing investors eye exit",
+    "raw_summary": "Slurrp Farm is currently exploring new fundraising opportunities as existing investors consider exiting their holdings. The company aims to attract potential investors while discussing the details of the proposed deal. Founded by Meghana Narayan and Shauravi Malik, Slurrp Farm has leveraged supergrains in their products. Recently, the brand was valued at ₹827 crore during a Series C5 funding round. Investor interest continues to rise in the healthy snacking market.",
+    "link": "https://economictimes.indiatimes.com/tech/startups/anushka-sharma-backed-slurrp-farm-explores-fresh-fundraise-as-existing-investors-eye-exit/articleshow/134633082.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Fri, 02 Oct 2026 00:57:19 +0530",
+    "collected_at": "2026-10-02T14:55:33.700190",
+    "summarized": true,
+    "summary_en": "Anushka Sharma-backed Slurrp Farm explores fresh fundraise as existing investors eye exit. Slurrp Farm is currently exploring new fundraising opportunities as existing investors consider exiting their holdings. The company aims to attract potential investors while discussing the details of the proposed deal. Founded by Meghana...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
