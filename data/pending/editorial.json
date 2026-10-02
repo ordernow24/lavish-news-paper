@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "d774476df677433b",
+    "title": "Obstacle race: On Special Intensive Revision exercise",
+    "raw_summary": "The SIR is threatening universal adult franchise",
+    "link": "https://www.thehindu.com/opinion/editorial/obstacle-race-on-special-intensive-revision-exercise/article71537443.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Fri, 02 Oct 2026 23:48:06 +0530",
+    "collected_at": "2026-10-02T20:53:55.180848",
+    "summarized": true,
+    "summary_en": "Obstacle race: On Special Intensive Revision exercise. The SIR is threatening universal adult franchise",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "049a4809729040ed",
+    "title": "Rescue act: On tiger reintroduction in West Bengal’s Buxa",
+    "raw_summary": "Preventing ecological degradation is the way to protect wildlife",
+    "link": "https://www.thehindu.com/opinion/editorial/rescue-act-on-tiger-reintroduction-in-west-bengals-buxa/article71537248.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Fri, 02 Oct 2026 23:35:08 +0530",
+    "collected_at": "2026-10-02T20:53:55.180895",
+    "summarized": true,
+    "summary_en": "Rescue act: On tiger reintroduction in West Bengal’s Buxa. Preventing ecological degradation is the way to protect wildlife",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
