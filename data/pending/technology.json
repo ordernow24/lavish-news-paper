@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "49433572041685eb",
+    "title": "OpenAI safety employee quits, calls for nuclear-level safeguards",
+    "raw_summary": "David Robinson, who previously led transparency work on OpenAI’s safety team, wrote in an essay that the ChatGPT maker “has thrived by trial and error.” However, he said the stakes of the inevitable failures that come from that approach are growing along with the technology’s capabilities, citing OpenAI’s failure to prevent its AI from going rogue during testing.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-safety-employee-quits-calls-for-nuclear-level-safeguards/articleshow/134661414.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 03 Oct 2026 19:49:09 +0530",
+    "collected_at": "2026-10-03T19:20:53.770854",
+    "summarized": true,
+    "summary_en": "OpenAI safety employee quits, calls for nuclear-level safeguards. David Robinson, who previously led transparency work on OpenAI’s safety team, wrote in an essay that the ChatGPT maker “has thrived by trial and error.” However, he said the stakes of the inevitable failures that come from...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "d19f84fe88535ee9",
+    "title": "Twitter cofounder Jack Dorsey's app Bitchat removed by Apple in India",
+    "raw_summary": "Apple has removed Jack Dorsey-backed offline messaging app Bitchat from its India App Store following a government takedown order under Section 69A of the IT Act.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/twitter-cofounder-jack-dorseys-app-bitchat-removed-by-apple-in-india/articleshow/134661082.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 03 Oct 2026 19:29:35 +0530",
+    "collected_at": "2026-10-03T19:20:53.770863",
+    "summarized": true,
+    "summary_en": "Twitter cofounder Jack Dorsey's app Bitchat removed by Apple in India. Apple has removed Jack Dorsey-backed offline messaging app Bitchat from its India App Store following a government takedown order under Section 69A of the IT Act.",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
