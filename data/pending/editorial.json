@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "8e32de1e3be32ecc",
+    "title": "Two or three?: On the Court, students, three-language policy",
+    "raw_summary": "Students must be free to choose a third language that is not tested in a Board exam",
+    "link": "https://www.thehindu.com/opinion/editorial/two-or-three-on-the-court-students-three-language-policy/article71543906.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Mon, 05 Oct 2026 00:11:44 +0530",
+    "collected_at": "2026-10-04T19:45:58.068994",
+    "summarized": true,
+    "summary_en": "Two or three?: On the Court, students, three-language policy. Students must be free to choose a third language that is not tested in a Board exam",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "d5e27da1fa9521a9",
+    "title": "Outbound force: On the U.S. leaving Iraq",
+    "raw_summary": "The U.S. is leaving Iraq in weariness, if not defeat",
+    "link": "https://www.thehindu.com/opinion/editorial/outbound-force-on-the-us-leaving-iraq/article71543933.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Mon, 05 Oct 2026 00:02:11 +0530",
+    "collected_at": "2026-10-04T19:45:58.069004",
+    "summarized": true,
+    "summary_en": "Outbound force: On the U.S. leaving Iraq. The U.S. is leaving Iraq in weariness, if not defeat",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
