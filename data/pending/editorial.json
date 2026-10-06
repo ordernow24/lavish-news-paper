@@ -208,5 +208,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "87770475a518da5a",
+    "title": "Let there be light: On the 2026 Nobel Prize in Physiology/Medicine",
+    "raw_summary": "The Nobel Laureates for Medicine  illuminated how the brain works",
+    "link": "https://www.thehindu.com/opinion/editorial/let-there-be-light-on-the-2026-nobel-prize-in-physiologymedicine/article71552164.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Wed, 07 Oct 2026 01:46:55 +0530",
+    "collected_at": "2026-10-06T21:09:14.492557",
+    "summarized": true,
+    "summary_en": "Let there be light: On the 2026 Nobel Prize in Physiology/Medicine. The Nobel Laureates for Medicine illuminated how the brain works",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "acf28d6ec91aae6f",
+    "title": "Break the chain: On leprosy in India",
+    "raw_summary": "India must focus on cutting transmission of leprosy",
+    "link": "https://www.thehindu.com/opinion/editorial/break-the-chain-on-leprosy-in-india/article71552142.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Wed, 07 Oct 2026 01:25:20 +0530",
+    "collected_at": "2026-10-06T21:09:14.492567",
+    "summarized": true,
+    "summary_en": "Break the chain: On leprosy in India. India must focus on cutting transmission of leprosy",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
