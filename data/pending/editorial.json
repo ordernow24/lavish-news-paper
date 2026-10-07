@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "caf7d7ce454046ed",
+    "title": "Eyes on ice: On the Nobel Prize for physics",
+    "raw_summary": "The Nobel tradition rewards individual talent in collective achievements",
+    "link": "https://www.thehindu.com/opinion/editorial/eyes-on-ice-on-the-nobel-prize-for-physics/article71555859.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Wed, 07 Oct 2026 23:50:50 +0530",
+    "collected_at": "2026-10-07T21:29:39.107553",
+    "summarized": true,
+    "summary_en": "Eyes on ice: On the Nobel Prize for physics. The Nobel tradition rewards individual talent in collective achievements",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "f289229453cb8c63",
+    "title": "Past forward: On Brazil’s presidential election, the first round",
+    "raw_summary": "Brazil might have missed an opportunity to leave the past behind",
+    "link": "https://www.thehindu.com/opinion/editorial/past-forward-on-brazils-presidential-election-the-first-round/article71555887.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Wed, 07 Oct 2026 23:44:32 +0530",
+    "collected_at": "2026-10-07T21:29:39.107567",
+    "summarized": true,
+    "summary_en": "Past forward: On Brazil’s presidential election, the first round. Brazil might have missed an opportunity to leave the past behind",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
