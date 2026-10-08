@@ -223,5 +223,20 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "cebb8718b93dc694",
+    "title": "Chance and happenstance: On the Nobel Prize in Chemistry",
+    "raw_summary": "Bias is more than human sociology; life makes choices with definite preferences",
+    "link": "https://www.thehindu.com/opinion/editorial/chance-and-happenstance-on-the-nobel-prize-in-chemistry/article71559993.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Fri, 09 Oct 2026 00:51:00 +0530",
+    "collected_at": "2026-10-08T21:26:58.372402",
+    "summarized": true,
+    "summary_en": "Chance and happenstance: On the Nobel Prize in Chemistry. Bias is more than human sociology; life makes choices with definite preferences",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
