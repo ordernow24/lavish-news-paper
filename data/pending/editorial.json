@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "34354bca22941e7a",
+    "title": "Delivery completed: On the GST Council meet, reforms",
+    "raw_summary": "With the latest reforms, GST might finally become a ‘good and simple tax’",
+    "link": "https://www.thehindu.com/opinion/editorial/delivery-completed-on-the-gst-council-meet-reforms/article71564732.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Sat, 10 Oct 2026 00:38:54 +0530",
+    "collected_at": "2026-10-09T21:08:54.189069",
+    "summarized": true,
+    "summary_en": "Delivery completed: On the GST Council meet, reforms. With the latest reforms, GST might finally become a ‘good and simple tax’",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "b8e703544c91c58c",
+    "title": "Beyond forms: On the 2026 Nobel Prize in Literature",
+    "raw_summary": "The Nobel for Anne Carson celebrates experimentation and imagination",
+    "link": "https://www.thehindu.com/opinion/editorial/beyond-forms-on-the-2026-nobel-prize-in-literature/article71564244.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Sat, 10 Oct 2026 00:36:25 +0530",
+    "collected_at": "2026-10-09T21:08:54.189079",
+    "summarized": true,
+    "summary_en": "Beyond forms: On the 2026 Nobel Prize in Literature. The Nobel for Anne Carson celebrates experimentation and imagination",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]

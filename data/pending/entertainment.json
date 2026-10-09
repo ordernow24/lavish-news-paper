@@ -718,5 +718,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "b3447cce92e1a868",
+    "title": "The other Nana Patekar: A life shaped by classical music",
+    "raw_summary": "When the arc lights dimmed, Nana Patekar retreated into a world of raags, poetry and enduring artistic friendships.",
+    "link": "https://www.thehindu.com/entertainment/movies/the-other-nana-patekar-a-life-shaped-by-classical-music/article71563975.ece",
+    "source": "The Hindu - Entertainment",
+    "weight": 2,
+    "published": "Fri, 09 Oct 2026 23:01:06 +0530",
+    "collected_at": "2026-10-09T21:08:51.532220",
+    "summarized": true,
+    "summary_en": "The other Nana Patekar: A life shaped by classical music. When the arc lights dimmed, Nana Patekar retreated into a world of raags, poetry and enduring artistic friendships.",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "6da239743633d036",
+    "title": "Quiz: Easy like Sunday morning",
+    "raw_summary": "All about International Day of the Girl Child",
+    "link": "https://www.thehindu.com/entertainment/quiz-easy-like-sunday-morning/article71551366.ece",
+    "source": "The Hindu - Entertainment",
+    "weight": 2,
+    "published": "Fri, 09 Oct 2026 20:09:11 +0530",
+    "collected_at": "2026-10-09T21:08:51.532231",
+    "summarized": true,
+    "summary_en": "Quiz: Easy like Sunday morning. All about International Day of the Girl Child",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
