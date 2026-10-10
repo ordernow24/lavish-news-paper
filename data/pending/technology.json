@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "900a4bce569dcb92",
+    "title": "India's Infosys does not expect material impact from US PERM suspension",
+    "raw_summary": "The US government said on Thursday it was suspending some major global tech and IT firms, including Infosys, from the PERM green card program, which allows skilled foreign workers to gain permanent residency in the US through their employment.",
+    "link": "https://economictimes.indiatimes.com/tech/information-tech/indias-infosys-does-not-expect-material-impact-from-us-perm-suspension/articleshow/134858725.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 10 Oct 2026 23:27:49 +0530",
+    "collected_at": "2026-10-10T20:15:48.099701",
+    "summarized": true,
+    "summary_en": "India's Infosys does not expect material impact from US PERM suspension. The US government said on Thursday it was suspending some major global tech and IT firms, including Infosys, from the PERM green card program, which allows skilled foreign workers to gain permanent residency in...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "61528e165c77d062",
+    "title": "India Mobile Congress 2026 concludes with focus on agricultural AI, 5G automation and last-mile connectivity",
+    "raw_summary": "Held over four days under the theme 'Scale Without Boundaries', the event brought together policymakers, industry leaders and technology developers to discuss applications of emerging technologies and their role in driving inclusive digital growth.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-mobile-congress-2026-concludes-with-focus-on-agricultural-ai-5g-automation-and-last-mile-connectivity/articleshow/134856745.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 10 Oct 2026 20:34:58 +0530",
+    "collected_at": "2026-10-10T20:15:48.099712",
+    "summarized": true,
+    "summary_en": "India Mobile Congress 2026 concludes with focus on agricultural AI, 5G automation and last-mile connectivity. Held over four days under the theme 'Scale Without Boundaries', the event brought together policymakers, industry leaders and technology developers to discuss applications of emerging technologies and their role in...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
