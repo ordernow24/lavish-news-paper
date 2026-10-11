@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "34d5b7d3a522805d",
+    "title": "Rights and wrongs: On the fundamental right to peaceful assembly and protest",
+    "raw_summary": "The government must not clamp down on dissent and protest",
+    "link": "https://www.thehindu.com/opinion/editorial/rights-and-wrongs-on-the-fundamental-right-to-peaceful-assembly-and-protest/article71571833.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Mon, 12 Oct 2026 01:49:08 +0530",
+    "collected_at": "2026-10-11T20:30:06.149283",
+    "summarized": true,
+    "summary_en": "Rights and wrongs: On the fundamental right to peaceful assembly and protest. The government must not clamp down on dissent and protest",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "1bd3a980a695cd70",
+    "title": "Message of peace: On the 2026 Nobel Peace Prize",
+    "raw_summary": "The Nobel Committee has redeemed itself by awarding Navi Pillay",
+    "link": "https://www.thehindu.com/opinion/editorial/message-of-peace-on-the-2026-nobel-peace-prize/article71571868.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Mon, 12 Oct 2026 01:37:01 +0530",
+    "collected_at": "2026-10-11T20:30:06.149291",
+    "summarized": true,
+    "summary_en": "Message of peace: On the 2026 Nobel Peace Prize. The Nobel Committee has redeemed itself by awarding Navi Pillay",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
