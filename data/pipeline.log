@@ -224460,3 +224460,21 @@
 2026-10-13 22:18:52,540 [SCRAPER] INFO: ===== Detector recheck started =====
 2026-10-13 22:18:52,554 [SCRAPER] INFO: ===== Detector finished: 330 OK, 0 flagged/removed =====
 2026-10-13 22:18:52,554 [SCRAPER] INFO: ########## 4-HOURLY CYCLE END ##########
+2026-10-13 23:02:38,590 [DETECTOR] INFO: ########## MIDNIGHT PUBLISH START ##########
+2026-10-13 23:02:38,590 [DETECTOR] INFO: ===== Detector recheck started =====
+2026-10-13 23:02:38,600 [DETECTOR] INFO: ===== Detector finished: 330 OK, 0 flagged/removed =====
+2026-10-13 23:02:38,600 [DETECTOR] INFO: Final recheck report: ok=330 flagged=0
+2026-10-13 23:02:38,600 [DETECTOR] INFO: ===== PDF generation started =====
+2026-10-13 23:02:38,651 [DETECTOR] INFO: PDF built successfully: output/LAVISH_NEWS_ENGLISH_13-Oct-2026.pdf
+2026-10-13 23:02:38,685 [DETECTOR] INFO: PDF built successfully: output/LAVISH_NEWS_HINDI_13-Oct-2026.pdf
+2026-10-13 23:02:38,685 [DETECTOR] INFO: ===== PDF generation finished: {'en': 'output/LAVISH_NEWS_ENGLISH_13-Oct-2026.pdf', 'hi': 'output/LAVISH_NEWS_HINDI_13-Oct-2026.pdf'} =====
+2026-10-13 23:02:38,685 [DETECTOR] INFO: ===== Telegram send started =====
+2026-10-13 23:02:40,389 [DETECTOR] WARNING: Send failed (attempt 1): {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+2026-10-13 23:02:46,461 [DETECTOR] WARNING: Send failed (attempt 2): {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+2026-10-13 23:02:52,606 [DETECTOR] WARNING: Send failed (attempt 3): {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+2026-10-13 23:02:58,907 [DETECTOR] WARNING: Send failed (attempt 1): {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+2026-10-13 23:03:05,252 [DETECTOR] WARNING: Send failed (attempt 2): {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+2026-10-13 23:03:11,783 [DETECTOR] WARNING: Send failed (attempt 3): {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+2026-10-13 23:03:17,773 [DETECTOR] INFO: ===== Telegram send finished: {'en': False, 'hi': False} =====
+2026-10-13 23:03:17,776 [DETECTOR] INFO: Archived today's data to data/archive/2026-10-13 and reset pending/
+2026-10-13 23:03:17,776 [DETECTOR] INFO: ########## MIDNIGHT PUBLISH END ##########
