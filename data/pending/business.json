@@ -448,5 +448,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "169dcba3ad3cda92",
+    "title": "US stocks: Nasdaq ends down as chipmakers fall and bank earnings roll in",
+    "raw_summary": "In a recent trading session, the Nasdaq index took a hit as chip stocks continued their downward spiral, amid diverging results from major banks like Citigroup and Goldman Sachs. The PHLX chip index faced a substantial decline, sparking fears surrounding competition in this sector. Despite the turbulence, analysts express optimism about future earnings linked to AI-driven innovations.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-ends-down-as-chipmakers-fall-and-bank-earnings-roll-in/articleshow/134926328.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Wed, 14 Oct 2026 01:43:21 +0530",
+    "collected_at": "2026-10-13T21:28:22.468589",
+    "summarized": true,
+    "summary_en": "US stocks: Nasdaq ends down as chipmakers fall and bank earnings roll in. In a recent trading session, the Nasdaq index took a hit as chip stocks continued their downward spiral, amid diverging results from major banks like Citigroup and Goldman Sachs. The PHLX chip...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "298039f86c3054e7",
+    "title": "US chip stocks slide as China’s CXMT advances; AI spending fears rattle investors",
+    "raw_summary": "Shares in US chip manufacturers tumbled, primarily influenced by memory and data storage firms, following competitive moves from China's CXMT. The sector faced significant pressure, stemming from concerns over escalating rivalry and demands for AI investments. Key players like Micron Technology, Seagate Technology, SanDisk, and Western Digital saw notable declines in their stock prices.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-chip-stocks-slide-as-chinas-cxmt-advances-ai-spending-fears-rattle-investors/articleshow/134923498.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Tue, 13 Oct 2026 22:56:34 +0530",
+    "collected_at": "2026-10-13T21:28:22.468602",
+    "summarized": true,
+    "summary_en": "US chip stocks slide as China’s CXMT advances; AI spending fears rattle investors. Shares in US chip manufacturers tumbled, primarily influenced by memory and data storage firms, following competitive moves from China's CXMT. The sector faced significant pressure, stemming from concerns over escalating rivalry and...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "b556a68f2cdb9e27",
+    "title": "NY Fed President Williams sees no need for a rate hike in 2027",
+    "raw_summary": "At a recent conference, John Williams from the Federal Reserve Bank of New York expressed optimism about a potential interest-rate increase this year, suggesting inflation could hit the 2% goal by next year. He cited the role of artificial intelligence in affecting inflation rates while also addressing the sector's supply-demand imbalance.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/ny-fed-president-williams-sees-no-need-for-a-rate-hike-in-2027/articleshow/134925718.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Wed, 14 Oct 2026 00:28:02 +0530",
+    "collected_at": "2026-10-13T21:28:22.468611",
+    "summarized": true,
+    "summary_en": "NY Fed President Williams sees no need for a rate hike in 2027. At a recent conference, John Williams from the Federal Reserve Bank of New York expressed optimism about a potential interest-rate increase this year, suggesting inflation could hit the 2% goal by next...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]

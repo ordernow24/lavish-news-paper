@@ -223,5 +223,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "d4910095a8b54d2b",
+    "title": "Spiralling food prices: on rising inflation",
+    "raw_summary": "Rural households have felt the greatest impact of rising inflation",
+    "link": "https://www.thehindu.com/opinion/editorial/spiralling-food-prices-on-rising-inflation/article71579752.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Wed, 14 Oct 2026 01:21:10 +0530",
+    "collected_at": "2026-10-13T21:28:26.532595",
+    "summarized": true,
+    "summary_en": "Spiralling food prices: on rising inflation. Rural households have felt the greatest impact of rising inflation",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "8a8362b41837b392",
+    "title": "The sound and the fiery: on green crackers, pollution control",
+    "raw_summary": "Green crackers do little to curb air and noise pollution",
+    "link": "https://www.thehindu.com/opinion/editorial/the-sound-and-the-fiery-on-green-crackers-pollution-control/article71579360.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Wed, 14 Oct 2026 01:20:36 +0530",
+    "collected_at": "2026-10-13T21:28:26.532605",
+    "summarized": true,
+    "summary_en": "The sound and the fiery: on green crackers, pollution control. Green crackers do little to curb air and noise pollution",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "0af37b615cf2a44b",
+    "title": "Privacy and transparency: On the RTI Act amendment, petitions",
+    "raw_summary": "There must be no information asymmetry between state and citizens",
+    "link": "https://www.thehindu.com/opinion/editorial/privacy-and-transparency-on-the-rti-act-amendment-petitions/article70652568.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Tue, 13 Oct 2026 08:29:12 +0530",
+    "collected_at": "2026-10-13T21:28:26.532613",
+    "summarized": true,
+    "summary_en": "Privacy and transparency: On the RTI Act amendment, petitions. There must be no information asymmetry between state and citizens",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
