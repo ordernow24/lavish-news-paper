@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "db219c5b6f79a212",
+    "title": "Illogical reasons: on The Hindu’s investigation of Delhi’s draft rolls",
+    "raw_summary": "Delhi’s “logical discrepancy” flags suggest a design that targets Muslims",
+    "link": "https://www.thehindu.com/opinion/editorial/illogical-reasons-on-the-hindus-investigation-of-delhis-draft-rolls/article71584599.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Wed, 14 Oct 2026 23:50:10 +0530",
+    "collected_at": "2026-10-14T20:17:52.243423",
+    "summarized": true,
+    "summary_en": "Illogical reasons: on The Hindu’s investigation of Delhi’s draft rolls. Delhi’s “logical discrepancy” flags suggest a design that targets Muslims",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "0ca44e5946b30a24",
+    "title": "Drugs and bullets: on narcotrafficking and targeted killings in Punjab",
+    "raw_summary": "Punjab is seeing a rise in narcotrafficking and targeted killings",
+    "link": "https://www.thehindu.com/opinion/editorial/drugs-and-bullets-on-narcotrafficking-and-targeted-killings-in-punjab/article71584835.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Wed, 14 Oct 2026 23:31:57 +0530",
+    "collected_at": "2026-10-14T20:17:52.243433",
+    "summarized": true,
+    "summary_en": "Drugs and bullets: on narcotrafficking and targeted killings in Punjab. Punjab is seeing a rise in narcotrafficking and targeted killings",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]

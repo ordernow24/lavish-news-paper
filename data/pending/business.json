@@ -508,5 +508,20 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "12661c7874525ca5",
+    "title": "US stocks: AI shares tumble, erasing $80 billion as hot US inflation fuels rate fears",
+    "raw_summary": "Amid rising inflation, major AI firms like CoreWeave and Dell Technologies experienced significant stock price drops, losing around $80 billion in market value. Increased US interest rates have investors worried about the borrowing hurdles faced by less profitable firms within the sector. Even with the strong performance of giants like Nvidia and Microsoft, skepticism remains high, reminiscent of the dot-com era's cautionary tales.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-ai-shares-tumble-erasing-80-billion-as-hot-us-inflation-fuels-rate-fears/articleshow/134950204.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Thu, 15 Oct 2026 00:22:22 +0530",
+    "collected_at": "2026-10-14T20:17:47.002593",
+    "summarized": true,
+    "summary_en": "US stocks: AI shares tumble, erasing $80 billion as hot US inflation fuels rate fears. Amid rising inflation, major AI firms like CoreWeave and Dell Technologies experienced significant stock price drops, losing around $80 billion in market value. Increased US interest rates have investors worried...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
