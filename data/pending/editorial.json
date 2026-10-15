@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "20eba6ae3c19afb3",
+    "title": "Out of site: On Jantar Mantar denotification, protests and democracy",
+    "raw_summary": "People’s protests are meant to be seen and heard, not hidden away",
+    "link": "https://www.thehindu.com/opinion/editorial/out-of-site-on-jantar-mantar-denotification-protests-and-democracy/article71588428.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Thu, 15 Oct 2026 23:48:49 +0530",
+    "collected_at": "2026-10-15T19:59:50.889323",
+    "summarized": true,
+    "summary_en": "Out of site: On Jantar Mantar denotification, protests and democracy. People’s protests are meant to be seen and heard, not hidden away",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "9891ebd9eafe6dc0",
+    "title": "Double standards: On the Trump diesel deal with Russia",
+    "raw_summary": "The United States must stop moralising to the Global South for trading with Russia",
+    "link": "https://www.thehindu.com/opinion/editorial/double-standards-on-the-trump-diesel-deal-with-russia/article71588392.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Thu, 15 Oct 2026 23:42:16 +0530",
+    "collected_at": "2026-10-15T19:59:50.889333",
+    "summarized": true,
+    "summary_en": "Double standards: On the Trump diesel deal with Russia. The United States must stop moralising to the Global South for trading with Russia",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
