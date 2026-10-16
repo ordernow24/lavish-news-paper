@@ -223,5 +223,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "222a9f2ceb0f6bd9",
+    "title": "A necessary corrective: On the SSR, the special summary revision of electoral rolls",
+    "raw_summary": "Re-enrolment and summary revision are necessary, but not sufficient",
+    "link": "https://www.thehindu.com/opinion/editorial/a-necessary-corrective-on-the-ssr-the-special-summary-revision-of-electoral-rolls/article71593451.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Fri, 16 Oct 2026 23:19:43 +0530",
+    "collected_at": "2026-10-16T19:39:22.186078",
+    "summarized": true,
+    "summary_en": "A necessary corrective: On the SSR, the special summary revision of electoral rolls. Re-enrolment and summary revision are necessary, but not sufficient",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "59aab1fa44e9c76b",
+    "title": "Ripples from the future: On the Nobel Prize for Economics 2026",
+    "raw_summary": "The Economics Nobel rewards work that holds lessons for India",
+    "link": "https://www.thehindu.com/opinion/editorial/ripples-from-the-future-on-the-nobel-prize-for-economics-2026/article71592499.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Fri, 16 Oct 2026 23:00:25 +0530",
+    "collected_at": "2026-10-16T19:39:22.186089",
+    "summarized": true,
+    "summary_en": "Ripples from the future: On the Nobel Prize for Economics 2026. The Economics Nobel rewards work that holds lessons for India",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "2665987585812679",
+    "title": "Good, not good enough: On India and the Aichi-Nagoya Asian Games 2026",
+    "raw_summary": "Without raising sports standards, India should not bid for hosting Olympics",
+    "link": "https://www.thehindu.com/opinion/editorial/good-not-good-enough-on-india-and-the-aichi-nagoya-asian-games-2026/article71547798.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Fri, 16 Oct 2026 19:22:40 +0530",
+    "collected_at": "2026-10-16T19:39:22.186098",
+    "summarized": true,
+    "summary_en": "Good, not good enough: On India and the Aichi-Nagoya Asian Games 2026. Without raising sports standards, India should not bid for hosting Olympics",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]

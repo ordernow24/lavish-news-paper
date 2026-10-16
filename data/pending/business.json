@@ -523,5 +523,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "d4cc5132ebe5b04b",
+    "title": "Big US bank stocks head for longest weekly losing streak since 2008",
+    "raw_summary": "Major US banks are experiencing their longest weekly losing streak since the 2008 financial crisis, driven by mixed quarterly earnings and rising inflation. The KBW Bank Index has fallen about 13% since its August peak, continuing a trend of losses. Concerns about artificial intelligence disrupting financial services contribute to the negative sentiment toward the sector. Analysts highlight challenges involving elevated interest rates potentially slowing economic growth.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/big-us-bank-stocks-head-for-longest-weekly-losing-streak-since-2008/articleshow/135002546.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Sat, 17 Oct 2026 00:24:46 +0530",
+    "collected_at": "2026-10-16T19:39:18.376470",
+    "summarized": true,
+    "summary_en": "Big US bank stocks head for longest weekly losing streak since 2008. Major US banks are experiencing their longest weekly losing streak since the 2008 financial crisis, driven by mixed quarterly earnings and rising inflation. The KBW Bank Index has fallen about 13% since its...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "d77316d81a563f62",
+    "title": "CoreWeave stock wipeout exposes divide between AI fear and greed",
+    "raw_summary": "CoreWeave Inc. is navigating turbulent stock trends due to climbing bond yields and investor trepidation over its debt, raising fears of default. Although a temporary boost followed optimistic comments from Nvidia's CEO, the overall sentiment leans towards caution. Analysts believe that while funding needs are pressing, robust AI demand could mitigate rate worries. Furthermore, CoreWeave's alliance with Nvidia may be a vital source of financial support in these unpredictable conditions.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed/articleshow/134998742.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Fri, 16 Oct 2026 21:33:56 +0530",
+    "collected_at": "2026-10-16T19:39:18.376482",
+    "summarized": true,
+    "summary_en": "CoreWeave stock wipeout exposes divide between AI fear and greed. CoreWeave Inc. is navigating turbulent stock trends due to climbing bond yields and investor trepidation over its debt, raising fears of default. Although a temporary boost followed optimistic comments from Nvidia's CEO, the overall sentiment...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
