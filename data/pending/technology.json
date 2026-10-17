@@ -223,5 +223,20 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "ec13b952124c19ec",
+    "title": "‘Dad, the internet at home is too slow’: How Jio’s founding idea took shape",
+    "raw_summary": "Isha Ambani's concerns regarding poor household internet sparked important conversations about India's digital landscape, leading to transformative innovations. In response, Mukesh Ambani pioneered Reliance Jio in 2011, aiming to enhance mobile connectivity across the nation. Its launch in September 2016 revolutionized the telecom sector by offering affordable data and complimentary voice services.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/dad-the-internet-at-home-is-too-slow-how-jios-founding-idea-took-shape/articleshow/135009724.cms",
+    "source": "Economic Times Tech",
+    "weight": 2,
+    "published": "Sat, 17 Oct 2026 12:52:56 +0530",
+    "collected_at": "2026-10-17T12:20:28.385472",
+    "summarized": true,
+    "summary_en": "‘Dad, the internet at home is too slow’: How Jio’s founding idea took shape. Isha Ambani's concerns regarding poor household internet sparked important conversations about India's digital landscape, leading to transformative innovations. In response, Mukesh Ambani pioneered Reliance Jio in 2011, aiming to enhance mobile...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
