@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "2442ac6b7a758c72",
+    "title": "Unknown vulnerabilities: on the cybersecurity advisory by CERT-In",
+    "raw_summary": "India must do better at detecting and preventing data breaches",
+    "link": "https://www.thehindu.com/opinion/editorial/unknown-vulnerabilities-on-the-cybersecurity-advisory-by-cert-in/article71604650.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Wed, 21 Oct 2026 00:57:39 +0530",
+    "collected_at": "2026-10-20T20:05:23.082567",
+    "summarized": true,
+    "summary_en": "Unknown vulnerabilities: on the cybersecurity advisory by CERT-In. India must do better at detecting and preventing data breaches",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "34e1f03e4f4609ff",
+    "title": "Fall of the centre: on the public discontent in France",
+    "raw_summary": "Economic woes have fuelled public discontent in France under Macron",
+    "link": "https://www.thehindu.com/opinion/editorial/fall-of-the-centre-on-the-public-discontent-in-france/article71604809.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Wed, 21 Oct 2026 00:53:08 +0530",
+    "collected_at": "2026-10-20T20:05:23.082578",
+    "summarized": true,
+    "summary_en": "Fall of the centre: on the public discontent in France. Economic woes have fuelled public discontent in France under Macron",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
