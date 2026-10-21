@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "f13065944fa08093",
+    "title": "Peace for progress: on the SCO, regional cooperation, the fight against terror",
+    "raw_summary": "Economic objectives can be met only in a stable security environment",
+    "link": "https://www.thehindu.com/opinion/editorial/peace-for-progress-on-the-sco-regional-cooperation-the-fight-against-terror/article71607933.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Thu, 22 Oct 2026 01:33:00 +0530",
+    "collected_at": "2026-10-21T20:19:05.184809",
+    "summarized": true,
+    "summary_en": "Peace for progress: on the SCO, regional cooperation, the fight against terror. Economic objectives can be met only in a stable security environment",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "5a981f967c465115",
+    "title": "Bitter and sweet: on FSSAI draft restrictions, added sugars in infant foods",
+    "raw_summary": "The FSSAI must expand restrictions to cover all added sugars in infant foods",
+    "link": "https://www.thehindu.com/opinion/editorial/bitter-and-sweet-on-fssai-draft-restrictions-added-sugars-in-infant-foods/article71604624.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Thu, 22 Oct 2026 01:28:50 +0530",
+    "collected_at": "2026-10-21T20:19:05.184819",
+    "summarized": true,
+    "summary_en": "Bitter and sweet: on FSSAI draft restrictions, added sugars in infant foods. The FSSAI must expand restrictions to cover all added sugars in infant foods",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]

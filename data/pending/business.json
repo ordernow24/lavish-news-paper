@@ -523,5 +523,50 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "ae61e2637c69b535",
+    "title": "BlackRock expands AI push with new robotics ETF as investor enthusiasm cools",
+    "raw_summary": "BlackRock has launched a new robotics focused ETF as investors become more selective about AI investments. The fund targets companies using intelligent machines across industries such as manufacturing and transportation, adding to a rapidly expanding market of ETFs built around different parts of the AI theme.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/blackrock-expands-ai-push-with-new-robotics-etf-as-investor-enthusiasm-cools/articleshow/135099678.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Thu, 22 Oct 2026 00:56:44 +0530",
+    "collected_at": "2026-10-21T20:19:01.170129",
+    "summarized": true,
+    "summary_en": "BlackRock expands AI push with new robotics ETF as investor enthusiasm cools. BlackRock has launched a new robotics focused ETF as investors become more selective about AI investments. The fund targets companies using intelligent machines across industries such as manufacturing and transportation, adding to a...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "5f40bc664b039f0e",
+    "title": "US Treasury yields slip as AI concerns boost safe haven demand ahead of 20 year auction",
+    "raw_summary": "US Treasury yields slipped as investors weighed the impact of higher borrowing costs on AI stocks, with the 10 year yield heading for a second straight daily decline. The move came ahead of a $13 billion 20 year Treasury auction, while markets continued to price in a muted chance of a Fed rate hike.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-slip-as-ai-concern-boost-safe-haven-demand-ahead-of-20-year-auction/articleshow/135097932.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Wed, 21 Oct 2026 23:19:52 +0530",
+    "collected_at": "2026-10-21T20:19:01.170141",
+    "summarized": true,
+    "summary_en": "US Treasury yields slip as AI concerns boost safe haven demand ahead of 20 year auction. US Treasury yields slipped as investors weighed the impact of higher borrowing costs on AI stocks, with the 10 year yield heading for a second straight daily decline. The...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "822bc0a3b3b6fe68",
+    "title": "Stocks, gold or crypto? The last 3 years’ returns have a surprising answer",
+    "raw_summary": "Bitcoin delivered nearly 234% returns over three years, outperforming silver, gold and equities. However, precious metals led over one year as cryptocurrencies declined. CoinDCX data also shows Bitcoin topping hypothetical one-year SIP values, highlighting the importance of investment horizons and risk management.",
+    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/stocks-gold-or-crypto-the-last-3-years-returns-have-a-surprising-answer/articleshow/135096080.cms",
+    "source": "Economic Times",
+    "weight": 2,
+    "published": "Wed, 21 Oct 2026 21:35:58 +0530",
+    "collected_at": "2026-10-21T20:19:01.170152",
+    "summarized": true,
+    "summary_en": "Stocks, gold or crypto? The last 3 years’ returns have a surprising answer. Bitcoin delivered nearly 234% returns over three years, outperforming silver, gold and equities. However, precious metals led over one year as cryptocurrencies declined. CoinDCX data also shows Bitcoin topping hypothetical one-year SIP...",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
