@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "f334e8eeabe55d47",
+    "title": "Canary in the coal mine: On the performance of India’s core industrial sectors",
+    "raw_summary": "Core sector data indicate impending growth slowdowns",
+    "link": "https://www.thehindu.com/opinion/editorial/canary-in-the-coal-mine-on-performance-of-indias-core-industrial-sectors/article71611800.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Fri, 23 Oct 2026 00:14:34 +0530",
+    "collected_at": "2026-10-22T20:15:17.136964",
+    "summarized": true,
+    "summary_en": "Canary in the coal mine: On the performance of India’s core industrial sectors. Core sector data indicate impending growth slowdowns",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "412aba5c79761cfa",
+    "title": "Tunnelling through: On China’s export control list, tunnel-boring machines",
+    "raw_summary": "Domestic manufacturing and foreign partnerships must go hand-in-hand",
+    "link": "https://www.thehindu.com/opinion/editorial/tunnelling-through-on-chinas-export-control-list-tunnel-boring-machines/article71611821.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Fri, 23 Oct 2026 00:09:20 +0530",
+    "collected_at": "2026-10-22T20:15:17.136971",
+    "summarized": true,
+    "summary_en": "Tunnelling through: On China’s export control list, tunnel-boring machines. Domestic manufacturing and foreign partnerships must go hand-in-hand",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
