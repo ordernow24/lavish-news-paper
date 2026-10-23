@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "ffd3b4ca44214730",
+    "title": "Falling short: on Marco Rubio’s second visit to India",
+    "raw_summary": "Marco Rubio’s second visit to India this year yielded little in terms of results",
+    "link": "https://www.thehindu.com/opinion/editorial/falling-short-on-marco-rubios-second-visit-to-india/article71616218.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Fri, 23 Oct 2026 23:38:00 +0530",
+    "collected_at": "2026-10-23T20:02:05.740988",
+    "summarized": true,
+    "summary_en": "Falling short: on Marco Rubio’s second visit to India. Marco Rubio’s second visit to India this year yielded little in terms of results",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "4755f62a521a6d1b",
+    "title": "In the crossfire: on India and the Saudi-Houthi conflict",
+    "raw_summary": "India must adopt a pro-active position in the Saudi-Houthi conflict",
+    "link": "https://www.thehindu.com/opinion/editorial/in-the-crossfire-on-india-and-the-saudi-houthi-conflict/article71616277.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Fri, 23 Oct 2026 23:27:44 +0530",
+    "collected_at": "2026-10-23T20:02:05.740996",
+    "summarized": true,
+    "summary_en": "In the crossfire: on India and the Saudi-Houthi conflict. India must adopt a pro-active position in the Saudi-Houthi conflict",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
