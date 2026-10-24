@@ -658,5 +658,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "5b98bd93ca68c2b3",
+    "title": "Rukmini Vasanth teams up with director Shree Karthick",
+    "raw_summary": "Rukmini Vasanth is teaming up with director Shree Karthick for a fresh, untitled project. The director is known for the science fiction drama ‘Oke Oka Jeevitham’",
+    "link": "https://www.thehindu.com/entertainment/movies/rukmini-vasanth-tara-shree-karthick-oke-oka-jeevitham-mad-boys-entertainment-dragon-nivin-pauly-51/article71620044.ece",
+    "source": "The Hindu - Entertainment",
+    "weight": 2,
+    "published": "Sat, 24 Oct 2026 18:56:17 +0530",
+    "collected_at": "2026-10-24T18:55:45.182481",
+    "summarized": true,
+    "summary_en": "Rukmini Vasanth teams up with director Shree Karthick. Rukmini Vasanth is teaming up with director Shree Karthick for a fresh, untitled project. The director is known for the science fiction drama ‘Oke Oka Jeevitham’",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "eca1372d8307f95d",
+    "title": "Quiz: Easy like Sunday morning — What has October 18 ever given us?",
+    "raw_summary": "",
+    "link": "https://www.thehindu.com/entertainment/quiz-easy-like-sunday-morning/article71578591.ece",
+    "source": "The Hindu - Entertainment",
+    "weight": 2,
+    "published": "Sat, 24 Oct 2026 18:39:22 +0530",
+    "collected_at": "2026-10-24T18:55:45.182491",
+    "summarized": true,
+    "summary_en": "Quiz: Easy like Sunday morning — What has October 18 ever given us?. Quiz: Easy like Sunday morning — What has October 18 ever given us?",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
