@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "72e5bc8e7e3243d5",
+    "title": "Wicked surprise: on the northeast monsoon",
+    "raw_summary": "The northeast monsoon is more unpredictable, and the south must be wary",
+    "link": "https://www.thehindu.com/opinion/editorial/wicked-surprise-on-the-northeast-monsoon/article71623526.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Sun, 25 Oct 2026 22:52:49 +0530",
+    "collected_at": "2026-10-25T19:12:20.375610",
+    "summarized": true,
+    "summary_en": "Wicked surprise: on the northeast monsoon. The northeast monsoon is more unpredictable, and the south must be wary",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "c36fff6e24df1c74",
+    "title": "Old values, new avenues: on India-Poland ties",
+    "raw_summary": "India and Poland have no conflict, but are pulled apart by other nations",
+    "link": "https://www.thehindu.com/opinion/editorial/old-values-new-avenues-on-india-poland-ties/article71623770.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Sun, 25 Oct 2026 22:48:17 +0530",
+    "collected_at": "2026-10-25T19:12:20.375620",
+    "summarized": true,
+    "summary_en": "Old values, new avenues: on India-Poland ties. India and Poland have no conflict, but are pulled apart by other nations",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
