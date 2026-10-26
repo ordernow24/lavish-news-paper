@@ -223,5 +223,35 @@
     "summary_hi": "",
     "_en_fallback": true,
     "_hi_fallback": true
+  },
+  {
+    "id": "531ea4436eda7953",
+    "title": "A final surge: On Luiz Inácio Lula da Silva’s triumph in Brazil",
+    "raw_summary": "Lula is the resistance to U.S. imperial ambitions in South America",
+    "link": "https://www.thehindu.com/opinion/editorial/a-final-surge-on-luiz-inacio-lula-da-silvas-triumph-in-brazil/article71627840.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Tue, 27 Oct 2026 01:15:15 +0530",
+    "collected_at": "2026-10-26T21:09:02.057853",
+    "summarized": true,
+    "summary_en": "A final surge: On Luiz Inácio Lula da Silva’s triumph in Brazil. Lula is the resistance to U.S. imperial ambitions in South America",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
+  },
+  {
+    "id": "a672ea789c0b81e9",
+    "title": "Dubious retreat: On the National Medical Commission and its MSMER",
+    "raw_summary": "The National Medical Commission must not be seen as lax on regulation",
+    "link": "https://www.thehindu.com/opinion/editorial/dubious-retreat-on-the-national-medical-commission-and-its-msmer/article71627812.ece",
+    "source": "The Hindu - Editorial",
+    "weight": 2,
+    "published": "Tue, 27 Oct 2026 01:11:22 +0530",
+    "collected_at": "2026-10-26T21:09:02.057864",
+    "summarized": true,
+    "summary_en": "Dubious retreat: On the National Medical Commission and its MSMER. The National Medical Commission must not be seen as lax on regulation",
+    "summary_hi": "",
+    "_en_fallback": true,
+    "_hi_fallback": true
   }
 ]
